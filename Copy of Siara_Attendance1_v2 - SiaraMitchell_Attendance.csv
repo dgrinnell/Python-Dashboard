@@ -1,0 +1,684 @@
+Action Created At (UTC),Substitute Teacher Name,Action,Scheduled Shift Start Time (UTC),School Name,Time Between Action and Shift Start (HRs) ,Is Excused,Action Peformed BY,Reason Description,Reason Type
+2022-09-02 22:08:03,Siara Mavis,Sub Claimed Shift via App,2022-09-10 19:30:00,Monroe Elementary School,189.365833,FALSE,SUB,,
+2022-09-02 22:09:13,Siara Mavis,Sub Claimed Shift via App,2022-09-06 11:30:00,Washington Elementary School,85.346667,FALSE,SUB,,
+2022-09-02 22:09:57,Siara Mavis,Sub Claimed Shift via App,2022-09-11 12:00:00,Adams Elementary School,205.834167,FALSE,SUB,,
+2022-09-02 22:12:28,Siara Mavis,Sub Claimed Shift via App,2022-09-12 20:00:00,Adams Elementary School,237.792222,FALSE,SUB,,
+2022-09-02 22:17:40,Siara Mavis,Sub Claimed Shift via App,2022-09-16 20:30:00,Jefferson Elementary School,334.205556,FALSE,SUB,,
+2022-09-02 22:51:02,Siara Mavis,Sub Claimed Shift via App,2022-09-18 20:00:00,Adams Elementary School,381.149444,FALSE,SUB,,
+2022-09-05 1:14:34,Siara Mavis,Sub Claimed Shift via App,2022-09-05 3:30:00,Monroe Elementary School,2.257222,FALSE,SUB,,
+2022-09-05 2:28:11,Siara Mavis,Sub Canceled ,2022-09-06 11:30:00,Washington Elementary School,33.030278,TRUE,SUB,last minute doctors appointment,NONE
+2022-09-05 18:34:53,Siara Mavis,Shift was verified and paid,2022-09-05 3:30:00,Monroe Elementary School,-15.081389,FALSE,E-Connect ,,
+2022-09-07 13:59:43,Siara Mavis,School Canceled the Shift,2022-09-16 20:30:00,Jefferson Elementary School,222.505,FALSE,SCHOOL,,STAFFED_IN_HOUSE
+2022-09-10 5:46:49,Siara Mavis,Sub Canceled ,2022-09-10 19:30:00,Monroe Elementary School,13.72,TRUE,SUB,family emergency,NONE
+2022-09-10 20:55:56,Siara Mavis,Sub Canceled ,2022-09-11 12:00:00,Adams Elementary School,15.068056,TRUE,SUB,family emergency,NONE
+2022-09-11 21:39:33,Siara Mavis,Sub Canceled ,2022-09-12 20:00:00,Adams Elementary School,22.340833,TRUE,SUB,family emergency,NONE
+2022-09-13 21:36:11,Siara Mavis,Sub Claimed Shift via App,2022-09-16 20:00:00,Adams Elementary School,70.396944,FALSE,SUB,,
+2022-09-14 14:51:04,Siara Mavis,Sub Claimed Shift via App,2022-09-18 3:00:00,Madison Elementary School,84.149167,FALSE,SUB,,
+2022-09-16 0:40:40,Siara Mavis,Sub Canceled ,2022-09-16 20:00:00,Adams Elementary School,19.3225,TRUE,SUB,having terrible period cramps,SICK_OTHER_ILLNESS
+2022-09-17 19:18:10,Siara Mavis,Sub Canceled ,2022-09-18 3:00:00,Madison Elementary School,7.697222,TRUE,SUB,menstual cycle,SICK_OTHER_ILLNESS
+2022-09-17 19:18:35,Siara Mavis,Sub Canceled ,2022-09-18 20:00:00,Adams Elementary School,24.690556,TRUE,SUB,menstual cycle,SICK_OTHER_ILLNESS
+2022-09-19 23:15:10,Siara Mavis,Sub Claimed Shift via App,2022-09-29 20:00:00,Adams Elementary School,236.7475,FALSE,SUB,,
+2022-09-19 23:17:04,Siara Mavis,Sub Claimed Shift via App,2022-10-05 20:00:00,Adams Elementary School,380.715556,FALSE,SUB,,
+2022-09-19 23:18:09,Siara Mavis,Sub Claimed Shift via App,2022-10-03 20:00:00,Adams Elementary School,332.697778,FALSE,SUB,,
+2022-09-29 14:09:21,Siara Mavis,Sub Canceled ,2022-09-29 20:00:00,Adams Elementary School,5.844444,TRUE,SUB,woke up with a fever,SICK_OTHER_ILLNESS
+2022-09-29 14:09:24,Siara Mavis,Shift was unassigned from Sub,2022-10-03 20:00:00,Adams Elementary School,101.843333,FALSE,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-09-29 14:09:24,Siara Mavis,Shift was unassigned from Sub,2022-10-05 20:00:00,Adams Elementary School,149.843333,FALSE,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-10-06 18:53:22,Siara Mavis,Sub Claimed Shift via App,2022-10-17 20:00:00,Adams Elementary School,265.110556,FALSE,SUB,,
+2022-10-06 18:58:29,Siara Mavis,Sub Claimed Shift via App,2022-10-19 20:00:00,Adams Elementary School,313.025556,FALSE,SUB,,
+2022-10-06 19:06:17,Siara Mavis,Sub Claimed Shift via App,2022-10-21 20:00:00,Adams Elementary School,360.895278,FALSE,SUB,,
+2022-10-06 19:06:36,Siara Mavis,Sub Claimed Shift via App,2022-10-23 20:00:00,Adams Elementary School,408.890278,FALSE,SUB,,
+2022-10-06 19:31:48,Siara Mavis,Sub Claimed Shift via App,2022-10-08 21:00:00,Madison Elementary School,49.47,FALSE,SUB,,
+2022-10-07 19:47:55,Siara Mavis,School Canceled the Shift,2022-10-08 21:00:00,Madison Elementary School,25.201389,FALSE,SCHOOL,,
+2022-10-10 4:12:57,Siara Mavis,Sub Canceled ,2022-10-17 20:00:00,Adams Elementary School,183.784444,FALSE,SUB,family emergency,NONE
+2022-10-17 12:27:34,Siara Mavis,School Canceled the Shift,2022-10-19 20:00:00,Adams Elementary School,55.540833,FALSE,SCHOOL,,STAFFED_IN_HOUSE
+2022-10-17 12:36:57,Siara Mavis,Sub Claimed Shift via App,2022-10-22 20:00:00,Adams Elementary School,127.384167,FALSE,SUB,,
+2022-10-17 12:37:24,Siara Mavis,Sub Claimed Shift via App,2022-11-02 20:00:00,Adams Elementary School,391.376667,FALSE,SUB,,
+2022-10-17 12:44:18,Siara Mavis,Sub Claimed Shift via App,2022-10-30 20:00:00,Adams Elementary School,319.261944,FALSE,SUB,,
+2022-10-17 12:45:06,Siara Mavis,Sub Claimed Shift via App,2022-11-03 20:00:00,Adams Elementary School,415.248611,FALSE,SUB,,
+2022-10-17 12:45:21,Siara Mavis,Sub Claimed Shift via App,2022-11-05 20:00:00,Adams Elementary School,463.244444,FALSE,SUB,,
+2022-10-18 15:39:20,Siara Mavis,Sub Claimed Shift via App,2022-11-06 21:00:00,Adams Elementary School,461.344444,FALSE,SUB,,
+2022-10-18 15:40:58,Siara Mavis,Sub Claimed Shift via App,2022-10-28 19:00:00,Madison Elementary School,243.317222,FALSE,SUB,,
+2022-10-21 13:06:19,Siara Mavis,Sub Canceled ,2022-10-21 20:00:00,Adams Elementary School,6.895,FALSE,SUB,major headache,SICK_OTHER_ILLNESS
+2022-10-21 13:58:45,Siara Mavis,School Canceled the Shift,2022-10-22 20:00:00,Adams Elementary School,30.021111,FALSE,SCHOOL,,STAFFED_IN_HOUSE
+2022-10-21 14:21:14,Siara Mavis,Sub Claimed Shift via App,2022-10-22 19:30:00,Jefferson Elementary School,29.146111,FALSE,SUB,,
+2022-10-21 16:19:03,Siara Mavis,School Canceled the Shift,2022-10-23 20:00:00,Adams Elementary School,51.682778,FALSE,SCHOOL,,STAFFED_IN_HOUSE
+2022-10-23 12:53:09,Siara Mavis,Shift was verified and paid,2022-10-22 19:30:00,Jefferson Elementary School,-17.385833,FALSE,E-Connect ,,
+2022-10-23 15:37:19,Siara Mavis,Sub Claimed Shift via App,2022-10-29 20:00:00,Quincy Elementary School,148.378056,FALSE,SUB,,
+2022-10-24 17:53:02,Siara Mavis,Sub Claimed Shift via App,2022-11-12 20:00:00,Madison Elementary School,458.116389,FALSE,SUB,,
+2022-10-24 17:53:18,Siara Mavis,Sub Claimed Shift via App,2022-11-11 20:00:00,Madison Elementary School,434.111944,FALSE,SUB,,
+2022-10-24 17:53:36,Siara Mavis,Sub Claimed Shift via App,2022-11-28 20:00:00,Madison Elementary School,842.106944,FALSE,SUB,,
+2022-10-24 17:53:39,Siara Mavis,Sub Claimed Shift via App,2022-11-21 20:00:00,Madison Elementary School,674.105833,FALSE,SUB,,
+2022-10-24 17:55:55,Siara Mavis,Sub Claimed Shift via App,2022-11-13 12:00:00,Madison Elementary School,474.068056,FALSE,SUB,,
+2022-10-24 17:57:17,Siara Mavis,Sub Claimed Shift via App,2022-11-19 12:00:00,Madison Elementary School,618.045278,FALSE,SUB,,
+2022-10-24 17:57:57,Siara Mavis,Sub Claimed Shift via App,2022-11-19 20:00:00,Madison Elementary School,626.034167,FALSE,SUB,,
+2022-10-24 17:58:13,Siara Mavis,Sub Claimed Shift via App,2022-11-26 12:00:00,Madison Elementary School,786.029722,FALSE,SUB,,
+2022-10-24 17:58:24,Siara Mavis,Sub Claimed Shift via App,2022-11-26 20:00:00,Madison Elementary School,794.026944,FALSE,SUB,,
+2022-10-24 18:01:08,Siara Mavis,Sub Claimed Shift via App,2022-10-29 11:30:00,Jefferson Elementary School,113.481111,FALSE,SUB,,
+2022-10-24 18:06:09,Siara Mavis,Sub Claimed Shift via App,2022-11-30 20:00:00,Madison Elementary School,889.8975,FALSE,SUB,,
+2022-10-24 18:06:16,Siara Mavis,Sub Claimed Shift via App,2022-12-01 20:00:00,Madison Elementary School,913.895833,FALSE,SUB,,
+2022-10-24 18:17:26,Siara Mavis,Sub Claimed Shift via App,2022-10-30 11:30:00,Jefferson Elementary School,137.209444,FALSE,SUB,,
+2022-10-24 18:18:35,Siara Mavis,Sub Canceled ,2022-10-30 20:00:00,Adams Elementary School,145.690278,FALSE,SUB,switching to an afternoon shift of there’s the same day,SWITCHING_APPS
+2022-10-24 18:24:19,Siara Mavis,Sub Claimed Shift via App,2022-11-09 20:00:00,Madison Elementary School,385.595,FALSE,SUB,,
+2022-10-24 18:25:57,Siara Mavis,Sub Claimed Shift via App,2022-12-03 12:00:00,Madison Elementary School,953.567778,FALSE,SUB,,
+2022-10-24 18:27:31,Siara Mavis,Sub Claimed Shift via App,2022-12-03 20:00:00,Madison Elementary School,961.541389,FALSE,SUB,,
+2022-10-24 18:53:51,Siara Mavis,Sub Claimed Shift via App,2022-11-16 20:00:00,Madison Elementary School,553.102778,FALSE,SUB,,
+2022-10-26 14:18:27,Siara Mavis,Sub Canceled ,2022-10-29 20:00:00,Quincy Elementary School,77.692778,FALSE,SUB,have to switch due to child issues,SWITCHING_APPS
+2022-10-29 2:55:58,Siara Mavis,Shift was verified and paid,2022-10-28 19:00:00,Madison Elementary School,-7.9325,FALSE,E-Connect ,,
+2022-10-29 23:16:29,Siara Mavis,Shift was verified and paid,2022-10-29 11:30:00,Jefferson Elementary School,-11.774444,FALSE,E-Connect ,,
+2022-10-30 13:38:37,Siara Mavis,Shift was unassigned from Sub,2022-10-30 11:30:00,Jefferson Elementary School,-2.143333,FALSE,E-Connect ,,OTHER
+2022-11-01 0:02:22,Siara Mavis,School Canceled the Shift,2022-11-02 20:00:00,Adams Elementary School,43.960833,FALSE,SCHOOL,,STAFFED_IN_HOUSE
+2022-11-02 16:43:20,Siara Mavis,School Canceled the Shift,2022-11-03 20:00:00,Adams Elementary School,27.277778,,SCHOOL,,STAFFED_IN_HOUSE
+2022-11-02 16:55:15,Siara Mavis,Sub Claimed Shift via App,2022-11-04 19:30:00,Monroe Elementary School,50.579167,,SUB,,
+2022-11-02 17:00:41,Siara Mavis,Sub Claimed Shift via App,2022-11-03 20:00:00,Adams Elementary School,26.988611,,SUB,,
+2022-11-03 14:18:39,Siara Mavis,Sub Canceled ,2022-11-06 21:00:00,Adams Elementary School,78.689444,,SUB,,NONE
+2022-11-03 19:19:12,Siara Mavis,School Canceled the Shift,2022-11-03 20:00:00,Adams Elementary School,0.68,,E-Connect ,,STAFFED_IN_HOUSE
+2022-11-05 6:06:40,Siara Mavis,Shift was verified and paid,2022-11-04 19:30:00,Monroe Elementary School,-10.610833,,E-Connect ,,
+2022-11-06 19:24:25,Siara Mavis,Shift was verified and paid,2022-11-05 20:00:00,Adams Elementary School,-23.406667,,E-Connect ,,
+2022-11-10 10:40:40,Siara Mavis,Shift was verified and paid,2022-11-09 20:00:00,Madison Elementary School,-14.6775,,E-Connect ,,
+2022-11-11 16:32:32,Siara Mavis,School Canceled the Shift,2022-11-11 20:00:00,Madison Elementary School,3.458056,,SCHOOL,,STAFFED_IN_HOUSE
+2022-11-11 16:42:00,Siara Mavis,Sub Claimed Shift via App,2022-11-14 20:30:00,Monroe Elementary School,75.800278,,SUB,,
+2022-11-11 16:48:47,Siara Mavis,Sub Claimed Shift via App,2022-11-12 12:00:00,Madison Elementary School,19.186944,,SUB,,
+2022-11-12 22:04:16,Siara Mavis,Shift was verified and paid,2022-11-12 12:00:00,Madison Elementary School,-10.071111,,E-Connect ,,
+2022-11-13 8:29:00,Siara Mavis,Shift was verified and paid,2022-11-12 20:00:00,Madison Elementary School,-12.483056,,E-Connect ,,
+2022-11-14 11:45:06,Siara Mavis,Shift was verified and paid,2022-11-13 12:00:00,Madison Elementary School,-23.751667,,E-Connect ,,
+2022-11-14 16:14:51,Siara Mavis,Sub Canceled ,2022-11-16 20:00:00,Madison Elementary School,51.752778,,SUB,,NONE
+2022-11-15 18:52:17,Siara Mavis,Shift was verified and paid,2022-11-14 20:30:00,Monroe Elementary School,-22.371389,,E-Connect ,,
+2022-11-18 15:27:51,Siara Mavis,Sub Claimed Shift via App,2022-12-08 20:00:00,Madison Elementary School,484.535833,,SUB,,
+2022-11-19 20:15:24,Siara Mavis,Sub Was No Show,2022-11-19 20:00:00,Madison Elementary School,-0.256667,,SUB,,NONE
+2022-11-19 20:15:31,Siara Mavis,Shift was unassigned from Sub,2022-11-30 20:00:00,Madison Elementary School,263.741667,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:15:33,Siara Mavis,Shift was unassigned from Sub,2022-11-21 20:00:00,Madison Elementary School,47.740833,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:15:34,Siara Mavis,Shift was unassigned from Sub,2022-12-03 20:00:00,Madison Elementary School,335.740833,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:15:36,Siara Mavis,Shift was unassigned from Sub,2022-12-08 20:00:00,Madison Elementary School,455.74,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:15:55,Siara Mavis,Shift was unassigned from Sub,2022-11-28 20:00:00,Madison Elementary School,215.735,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:15:55,Siara Mavis,Shift was unassigned from Sub,2022-11-26 20:00:00,Madison Elementary School,167.735,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:16:29,Siara Mavis,Shift was unassigned from Sub,2022-12-01 20:00:00,Madison Elementary School,287.725556,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:16:29,Siara Mavis,Shift was unassigned from Sub,2022-11-26 12:00:00,Madison Elementary School,159.725556,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:17:04,Siara Mavis,Shift was unassigned from Sub,2022-12-03 12:00:00,Madison Elementary School,327.715833,,SYSTEM AUTOMATED,SUB SUSPENDED,SUB_STAGE_CHANGED
+2022-11-19 20:52:04,Siara Mavis,Shift was verified and paid,2022-11-19 12:00:00,Madison Elementary School,-8.867778,,E-Connect ,,
+2022-11-26 21:14:11,Siara Mavis,Sub Claimed Shift via App,2022-12-02 20:00:00,Madison Elementary School,142.763889,,SUB,,
+2022-11-26 21:14:35,Siara Mavis,Sub Claimed Shift via App,2022-12-01 20:00:00,Madison Elementary School,118.756944,,SUB,,
+2022-11-26 21:15:37,Siara Mavis,Sub Claimed Shift via App,2022-12-04 20:30:00,Jefferson Elementary School,191.239722,,SUB,,
+2022-11-26 21:15:54,Siara Mavis,Sub Claimed Shift via App,2023-01-03 20:00:00,Madison Elementary School,910.735,,SUB,,
+2022-11-26 21:16:22,Siara Mavis,Sub Claimed Shift via App,2022-12-11 20:30:00,Jefferson Elementary School,359.227222,,SUB,,
+2022-11-26 21:23:36,Siara Mavis,Sub Claimed Shift via App,2022-12-18 20:30:00,Jefferson Elementary School,527.106667,,SUB,,
+2022-11-27 4:10:18,Siara Mavis,Sub Claimed Shift via App,2022-11-30 13:00:00,Madison Elementary School,80.828611,,SUB,,
+2022-11-27 4:11:24,Siara Mavis,Sub Claimed Shift via App,2022-12-17 20:30:00,Jefferson Elementary School,496.310278,,SUB,,
+2022-11-27 4:12:17,Siara Mavis,Sub Claimed Shift via App,2023-01-04 12:00:00,Madison Elementary School,919.795556,,SUB,,
+2022-11-27 4:12:42,Siara Mavis,Sub Claimed Shift via App,2022-12-30 20:00:00,Madison Elementary School,807.788333,,SUB,,
+2022-11-27 4:12:55,Siara Mavis,Sub Claimed Shift via App,2022-12-28 20:00:00,Madison Elementary School,759.784722,,SUB,,
+2022-11-27 4:13:39,Siara Mavis,Sub Claimed Shift via App,2022-12-17 12:30:00,Jefferson Elementary School,488.2725,,SUB,,
+2022-11-27 4:20:01,Siara Mavis,Sub Claimed Shift via App,2023-01-07 20:00:00,Madison Elementary School,999.666667,,SUB,,
+2022-11-27 4:20:12,Siara Mavis,Sub Claimed Shift via App,2023-01-06 20:00:00,Madison Elementary School,975.663611,,SUB,,
+2022-11-27 4:22:46,Siara Mavis,Sub Claimed Shift via App,2022-12-26 12:00:00,Madison Elementary School,703.620833,,SUB,,
+2022-11-27 4:28:29,Siara Mavis,Sub Claimed Shift via App,2022-12-10 20:30:00,Jefferson Elementary School,328.025278,,SUB,,
+2022-11-27 22:52:03,Siara Mavis,Sub Claimed Shift via App,2022-12-03 12:00:00,Madison Elementary School,133.1325,,SUB,,
+2022-11-28 16:50:13,Siara Mavis,Sub Canceled ,2022-11-30 13:00:00,Madison Elementary School,44.163333,,SUB,,NONE
+2022-11-29 19:13:59,Siara Mavis,Sub Claimed Shift via App,2022-12-08 22:00:00,Madison Elementary School,218.766944,,SUB,,
+2022-11-29 19:14:51,Siara Mavis,Sub Claimed Shift via App,2022-12-13 13:00:00,Madison Elementary School,329.7525,,SUB,,
+2022-11-29 19:17:03,Siara Mavis,Sub Claimed Shift via App,2022-12-14 22:00:00,Madison Elementary School,362.715833,,SUB,,
+2022-11-29 19:27:47,Siara Mavis,Sub Claimed Shift via App,2022-12-27 13:00:00,Madison Elementary School,665.537222,,SUB,,
+2022-12-01 18:33:31,Siara Mavis,Sub Canceled ,2022-12-02 20:00:00,Madison Elementary School,25.441667,,SUB,,NONE
+2022-12-03 7:28:10,Siara Mavis,School Canceled the Shift,2022-12-03 12:00:00,Madison Elementary School,4.530833,,SCHOOL,,STAFFED_IN_HOUSE
+2022-12-03 11:01:17,Siara Mavis,Sub Claimed Shift via App,2022-12-05 21:30:00,Adams Elementary School,58.478611,,SUB,,
+2022-12-04 0:31:05,Siara Mavis,Sub Canceled ,2022-12-04 20:30:00,Jefferson Elementary School,19.981944,,SUB,,NONE
+2022-12-05 18:17:03,Siara Mavis,Shift was unassigned from Sub,2022-12-05 21:30:00,Adams Elementary School,3.216111,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-09 3:04:16,Siara Mavis,Shift was verified and paid,2022-12-08 22:00:00,Madison Elementary School,-5.071111,,E-Connect ,,
+2022-12-09 17:18:36,Siara Mavis,Shift was verified and paid,2022-12-01 20:00:00,Madison Elementary School,-189.31,,E-Connect ,,
+2022-12-10 4:59:16,Siara Mavis,Shift was unassigned from Sub,2022-12-17 12:30:00,Jefferson Elementary School,175.512222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-10 4:59:16,Siara Mavis,Shift was unassigned from Sub,2022-12-17 20:30:00,Jefferson Elementary School,183.512222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-10 4:59:16,Siara Mavis,Shift was unassigned from Sub,2022-12-11 20:30:00,Jefferson Elementary School,39.512222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-10 4:59:16,Siara Mavis,Shift was unassigned from Sub,2022-12-10 20:30:00,Jefferson Elementary School,15.512222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-10 4:59:20,Siara Mavis,Shift was unassigned from Sub,2022-12-18 20:30:00,Jefferson Elementary School,207.511389,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-12 17:32:11,Siara Mavis,Sub Claimed Shift via App,2023-01-12 12:00:00,Madison Elementary School,738.463889,,SUB,,
+2022-12-12 17:36:51,Siara Mavis,Sub Claimed Shift via App,2023-01-17 12:00:00,Madison Elementary School,858.386111,,SUB,,
+2022-12-12 17:39:18,Siara Mavis,Sub Claimed Shift via App,2023-01-10 12:00:00,Madison Elementary School,690.345,,SUB,,
+2022-12-12 17:39:44,Siara Mavis,Sub Claimed Shift via App,2023-01-25 12:00:00,Madison Elementary School,1050.338056,,SUB,,
+2022-12-12 17:43:20,Siara Mavis,Sub Claimed Shift via App,2023-01-14 12:00:00,Madison Elementary School,786.277778,,SUB,,
+2022-12-12 17:46:33,Siara Mavis,Sub Claimed Shift via App,2023-01-28 12:00:00,Madison Elementary School,1122.224444,,SUB,,
+2022-12-12 17:47:46,Siara Mavis,Sub Claimed Shift via App,2023-01-29 12:00:00,Madison Elementary School,1146.203889,,SUB,,
+2022-12-12 17:47:50,Siara Mavis,Sub Claimed Shift via App,2023-01-26 12:00:00,Madison Elementary School,1074.202778,,SUB,,
+2022-12-12 17:52:19,Siara Mavis,Sub Claimed Shift via App,2023-01-16 12:00:00,Madison Elementary School,834.128056,,SUB,,
+2022-12-13 10:44:13,Siara Mavis,Shift was unassigned from Sub,2023-01-06 20:00:00,Madison Elementary School,585.263333,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:15,Siara Mavis,Shift was unassigned from Sub,2022-12-13 13:00:00,Madison Elementary School,2.262778,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:15,Siara Mavis,Shift was unassigned from Sub,2022-12-14 22:00:00,Madison Elementary School,35.262778,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:17,Siara Mavis,Shift was unassigned from Sub,2023-01-03 20:00:00,Madison Elementary School,513.262222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:17,Siara Mavis,Shift was unassigned from Sub,2023-01-12 12:00:00,Madison Elementary School,721.262222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:17,Siara Mavis,Shift was unassigned from Sub,2023-01-04 12:00:00,Madison Elementary School,529.262222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:17,Siara Mavis,Shift was unassigned from Sub,2022-12-28 20:00:00,Madison Elementary School,369.262222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:19,Siara Mavis,Shift was unassigned from Sub,2023-01-26 12:00:00,Madison Elementary School,1057.261667,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:19,Siara Mavis,Shift was unassigned from Sub,2023-01-07 20:00:00,Madison Elementary School,609.261667,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:19,Siara Mavis,Shift was unassigned from Sub,2023-01-28 12:00:00,Madison Elementary School,1105.261389,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:21,Siara Mavis,Shift was unassigned from Sub,2022-12-26 12:00:00,Madison Elementary School,313.260833,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:21,Siara Mavis,Shift was unassigned from Sub,2023-01-25 12:00:00,Madison Elementary School,1033.260833,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:21,Siara Mavis,Shift was unassigned from Sub,2023-01-10 12:00:00,Madison Elementary School,673.260833,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:23,Siara Mavis,Shift was unassigned from Sub,2022-12-27 13:00:00,Madison Elementary School,338.260556,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:23,Siara Mavis,Shift was unassigned from Sub,2022-12-30 20:00:00,Madison Elementary School,417.260278,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:23,Siara Mavis,Shift was unassigned from Sub,2023-01-16 12:00:00,Madison Elementary School,817.260278,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:25,Siara Mavis,Shift was unassigned from Sub,2023-01-14 12:00:00,Madison Elementary School,769.259722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:26,Siara Mavis,Shift was unassigned from Sub,2023-01-29 12:00:00,Madison Elementary School,1129.259722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 10:44:26,Siara Mavis,Shift was unassigned from Sub,2023-01-17 12:00:00,Madison Elementary School,841.259722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-13 17:00:29,Siara Mavis,Sub Claimed Shift via App,2022-12-30 20:30:00,Monroe Elementary School,411.492222,,SUB,,
+2022-12-13 17:00:51,Siara Mavis,Sub Claimed Shift via App,2022-12-26 20:30:00,Monroe Elementary School,315.486111,,SUB,,
+2022-12-15 20:31:30,Siara Mavis,Sub Claimed Shift via App,2022-12-22 21:00:00,Quincy Elementary School,168.475,,SUB,,
+2022-12-15 20:31:52,Siara Mavis,Sub Claimed Shift via App,2022-12-17 20:30:00,Monroe Elementary School,47.969167,,SUB,,
+2022-12-15 22:53:26,Siara Mavis,Sub Claimed Shift via App,2022-12-20 20:30:00,Jackson Elementary School,117.609444,,SUB,,
+2022-12-17 15:36:09,Siara Mavis,Shift was unassigned from Sub,2022-12-26 20:30:00,Monroe Elementary School,220.897778,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-17 15:36:09,Siara Mavis,Shift was unassigned from Sub,2022-12-17 20:30:00,Monroe Elementary School,4.897778,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-17 15:36:09,Siara Mavis,Shift was unassigned from Sub,2022-12-30 20:30:00,Monroe Elementary School,316.8975,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-20 17:52:16,Siara Mavis,Shift was unassigned from Sub,2022-12-20 20:30:00,Jackson Elementary School,2.629167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2022-12-21 18:25:48,Siara Mavis,School Canceled the Shift,2022-12-22 21:00:00,Quincy Elementary School,26.57,,SCHOOL,,STAFFED_IN_HOUSE
+2022-12-28 16:22:44,Siara Mavis,Sub Claimed Shift via App,2023-01-16 20:00:00,Madison Elementary School,459.621111,,SUB,,
+2022-12-28 16:23:12,Siara Mavis,Sub Claimed Shift via App,2023-01-17 20:00:00,Madison Elementary School,483.613333,,SUB,,
+2022-12-28 16:23:22,Siara Mavis,Sub Claimed Shift via App,2023-01-18 20:00:00,Madison Elementary School,507.610556,,SUB,,
+2022-12-28 16:23:28,Siara Mavis,Sub Claimed Shift via App,2023-01-20 20:00:00,Madison Elementary School,555.608889,,SUB,,
+2022-12-28 16:23:53,Siara Mavis,Sub Claimed Shift via App,2023-01-18 4:00:00,Madison Elementary School,491.602222,,SUB,,
+2022-12-28 16:24:09,Siara Mavis,Sub Claimed Shift via App,2023-01-07 20:00:00,Madison Elementary School,243.597778,,SUB,,
+2022-12-28 16:24:17,Siara Mavis,Sub Claimed Shift via App,2023-01-03 20:00:00,Madison Elementary School,147.595556,,SUB,,
+2022-12-28 16:24:55,Siara Mavis,Sub Claimed Shift via App,2023-01-11 20:00:00,Madison Elementary School,339.584722,,SUB,,
+2022-12-28 16:26:25,Siara Mavis,Sub Claimed Shift via App,2023-01-08 20:00:00,Van Buren Elementary School,267.56,,SUB,,
+2022-12-28 16:26:32,Siara Mavis,Sub Claimed Shift via App,2023-02-01 20:00:00,Madison Elementary School,843.557778,,SUB,,
+2022-12-28 16:26:50,Siara Mavis,Sub Claimed Shift via App,2023-02-02 20:00:00,Madison Elementary School,867.553056,,SUB,,
+2022-12-28 16:26:51,Siara Mavis,Sub Claimed Shift via App,2023-02-04 20:00:00,Madison Elementary School,915.5525,,SUB,,
+2022-12-28 16:27:12,Siara Mavis,Sub Claimed Shift via App,2023-01-30 20:00:00,Madison Elementary School,795.546944,,SUB,,
+2022-12-28 16:27:54,Siara Mavis,Sub Claimed Shift via App,2023-01-29 20:00:00,Madison Elementary School,771.535278,,SUB,,
+2022-12-28 18:58:26,Siara Mavis,Sub Claimed Shift via App,2023-01-28 4:00:00,Madison Elementary School,729.026389,,SUB,,
+2022-12-28 19:03:16,Siara Mavis,Sub Claimed Shift via App,2023-01-27 20:00:00,Madison Elementary School,720.945556,,SUB,,
+2022-12-28 23:37:53,Siara Mavis,Sub Claimed Shift via App,2022-12-29 12:00:00,Madison Elementary School,12.368889,,SUB,,
+2022-12-29 2:15:01,Siara Mavis,School Canceled the Shift,2022-12-29 12:00:00,Madison Elementary School,9.75,,SCHOOL,,STAFFED_IN_HOUSE
+2022-12-29 11:03:03,Siara Mavis,Sub Claimed Shift via App,2023-01-10 20:00:00,Madison Elementary School,296.949444,,SUB,,
+2022-12-29 11:03:20,Siara Mavis,Sub Claimed Shift via App,2023-01-14 20:00:00,Madison Elementary School,392.944722,,SUB,,
+2022-12-29 11:33:01,Siara Mavis,Sub Claimed Shift via App,2023-01-12 20:00:00,Madison Elementary School,344.449722,,SUB,,
+2022-12-29 11:33:48,Siara Mavis,Sub Claimed Shift via App,2023-01-04 20:30:00,Fillmore Elementary School ,152.936667,,SUB,,
+2022-12-29 11:35:17,Siara Mavis,Sub Claimed Shift via App,2023-01-02 12:00:00,Van Buren Elementary School,96.411944,,SUB,,
+2022-12-29 15:42:50,Siara Mavis,Sub Claimed Shift via App,2022-12-29 20:00:00,Harrison Elementary School ,4.286389,,SUB,,
+2022-12-29 17:59:57,Siara Mavis,Sub Claimed Shift via App,2023-01-06 12:00:00,Madison Elementary School,186.000833,,SUB,,
+2022-12-29 22:14:38,Siara Mavis,Sub Claimed Shift via App,2022-12-30 12:00:00,Madison Elementary School,13.756389,,SUB,,
+2022-12-29 22:25:50,Siara Mavis,Sub Claimed Shift via App,2022-12-31 12:30:00,Fillmore Elementary School ,38.069722,,SUB,,
+2022-12-30 4:01:38,Siara Mavis,Shift was verified and paid,2022-12-29 20:00:00,Harrison Elementary School ,-8.027222,,E-Connect ,,
+2022-12-30 11:11:41,Siara Mavis,Sub Claimed Shift via App,2023-01-01 12:00:00,Madison Elementary School,48.805556,,SUB,,
+2022-12-30 14:55:23,Siara Mavis,School Canceled the Shift,2022-12-31 12:30:00,Fillmore Elementary School ,21.577222,,SCHOOL,,STAFFED_IN_HOUSE
+2022-12-30 20:27:36,Siara Mavis,Shift was verified and paid,2022-12-30 12:00:00,Madison Elementary School,-8.459722,,E-Connect ,,
+2023-01-01 12:22:43,Siara Mavis,School Canceled the Shift,2023-01-02 12:00:00,Van Buren Elementary School,23.621389,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-01 16:10:05,Siara Mavis,School Canceled the Shift,2023-01-08 20:00:00,Van Buren Elementary School,171.832222,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-01 20:25:40,Siara Mavis,Shift was verified and paid,2023-01-01 12:00:00,Madison Elementary School,-8.427778,,E-Connect ,,
+2023-01-02 0:35:23,Siara Mavis,Sub Claimed Shift via App,2023-01-06 20:00:00,Madison Elementary School,115.410556,,SUB,,
+2023-01-02 0:40:56,Siara Mavis,Sub Claimed Shift via App,2023-02-05 4:00:00,Madison Elementary School,819.317778,,SUB,,
+2023-01-02 0:41:39,Siara Mavis,Sub Claimed Shift via App,2023-01-31 20:00:00,Madison Elementary School,715.306111,,SUB,,
+2023-01-02 0:43:23,Siara Mavis,Sub Claimed Shift via App,2023-01-02 22:00:00,Madison Elementary School,21.276944,,SUB,,
+2023-01-03 3:02:40,Siara Mavis,Shift was verified and paid,2023-01-02 22:00:00,Madison Elementary School,-5.044167,,E-Connect ,,
+2023-01-03 18:10:03,Siara Mavis,School Canceled the Shift,2023-01-04 20:30:00,Fillmore Elementary School ,26.332778,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-04 4:19:19,Siara Mavis,Shift was verified and paid,2023-01-03 20:00:00,Madison Elementary School,-8.321667,,E-Connect ,,
+2023-01-05 23:58:15,Siara Mavis,Sub Claimed Shift via App,2023-02-11 20:00:00,Madison Elementary School,884.029444,,SUB,,
+2023-01-05 23:58:26,Siara Mavis,Sub Claimed Shift via App,2023-02-09 20:00:00,Madison Elementary School,836.026111,,SUB,,
+2023-01-05 23:58:55,Siara Mavis,Sub Claimed Shift via App,2023-02-16 20:00:00,Madison Elementary School,1004.018056,,SUB,,
+2023-01-05 23:59:26,Siara Mavis,Sub Claimed Shift via App,2023-02-18 20:00:00,Madison Elementary School,1052.009722,,SUB,,
+2023-01-05 23:59:49,Siara Mavis,Sub Claimed Shift via App,2023-02-19 12:00:00,Madison Elementary School,1068.003056,,SUB,,
+2023-01-06 0:03:22,Siara Mavis,Sub Claimed Shift via App,2023-02-07 20:00:00,Madison Elementary School,787.943889,,SUB,,
+2023-01-06 0:04:28,Siara Mavis,Sub Claimed Shift via App,2023-02-12 12:00:00,Madison Elementary School,899.925833,,SUB,,
+2023-01-06 0:05:49,Siara Mavis,Sub Claimed Shift via App,2023-02-15 20:00:00,Madison Elementary School,979.903056,,SUB,,
+2023-01-06 4:00:37,Siara Mavis,Sub Canceled ,2023-01-06 20:00:00,Madison Elementary School,15.989722,,SUB,,NONE
+2023-01-06 4:00:47,Siara Mavis,Shift was unassigned from Sub,2023-01-28 4:00:00,Madison Elementary School,527.987222,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:47,Siara Mavis,Shift was unassigned from Sub,2023-01-06 12:00:00,Madison Elementary School,7.986944,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:47,Siara Mavis,Shift was unassigned from Sub,2023-01-10 20:00:00,Madison Elementary School,111.986944,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:51,Siara Mavis,Shift was unassigned from Sub,2023-01-20 20:00:00,Madison Elementary School,351.986111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:51,Siara Mavis,Shift was unassigned from Sub,2023-01-18 4:00:00,Madison Elementary School,287.985833,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:52,Siara Mavis,Shift was unassigned from Sub,2023-01-11 20:00:00,Madison Elementary School,135.985833,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:52,Siara Mavis,Shift was unassigned from Sub,2023-01-12 20:00:00,Madison Elementary School,159.985556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:55,Siara Mavis,Shift was unassigned from Sub,2023-01-18 20:00:00,Madison Elementary School,303.984722,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:56,Siara Mavis,Shift was unassigned from Sub,2023-01-16 20:00:00,Madison Elementary School,255.984444,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:56,Siara Mavis,Shift was unassigned from Sub,2023-01-07 20:00:00,Madison Elementary School,39.984444,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:57,Siara Mavis,Shift was unassigned from Sub,2023-01-17 20:00:00,Madison Elementary School,279.984167,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:58,Siara Mavis,Shift was unassigned from Sub,2023-02-11 20:00:00,Madison Elementary School,879.983889,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:00:59,Siara Mavis,Shift was unassigned from Sub,2023-02-02 20:00:00,Madison Elementary School,663.983889,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:00,Siara Mavis,Shift was unassigned from Sub,2023-01-14 20:00:00,Madison Elementary School,207.983333,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:02,Siara Mavis,Shift was unassigned from Sub,2023-01-30 20:00:00,Madison Elementary School,591.983056,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:02,Siara Mavis,Shift was unassigned from Sub,2023-02-09 20:00:00,Madison Elementary School,831.982778,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:03,Siara Mavis,Shift was unassigned from Sub,2023-01-27 20:00:00,Madison Elementary School,519.982778,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:03,Siara Mavis,Shift was unassigned from Sub,2023-01-29 20:00:00,Madison Elementary School,567.9825,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:04,Siara Mavis,Shift was unassigned from Sub,2023-02-07 20:00:00,Madison Elementary School,783.982222,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:04,Siara Mavis,Shift was unassigned from Sub,2023-02-12 12:00:00,Madison Elementary School,895.982222,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:05,Siara Mavis,Shift was unassigned from Sub,2023-02-05 4:00:00,Madison Elementary School,719.982222,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:06,Siara Mavis,Shift was unassigned from Sub,2023-02-04 20:00:00,Madison Elementary School,711.981667,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:06,Siara Mavis,Shift was unassigned from Sub,2023-02-01 20:00:00,Madison Elementary School,639.981667,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:07,Siara Mavis,Shift was unassigned from Sub,2023-02-19 12:00:00,Madison Elementary School,1063.981667,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:08,Siara Mavis,Shift was unassigned from Sub,2023-01-31 20:00:00,Madison Elementary School,615.981111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:09,Siara Mavis,Shift was unassigned from Sub,2023-02-16 20:00:00,Madison Elementary School,999.981111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:09,Siara Mavis,Shift was unassigned from Sub,2023-02-18 20:00:00,Madison Elementary School,1047.981111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-06 4:01:12,Siara Mavis,Shift was unassigned from Sub,2023-02-15 20:00:00,Madison Elementary School,975.980278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-01-09 18:41:35,Siara Mavis,Sub Claimed Shift via App,2023-02-06 20:00:00,Madison Elementary School,673.307222,,SUB,,
+2023-01-09 18:41:56,Siara Mavis,Sub Claimed Shift via App,2023-02-13 20:00:00,Madison Elementary School,841.301389,,SUB,,
+2023-01-09 18:41:59,Siara Mavis,Sub Claimed Shift via App,2023-02-07 20:00:00,Madison Elementary School,697.300278,,SUB,,
+2023-01-09 18:42:41,Siara Mavis,Sub Claimed Shift via App,2023-02-18 20:00:00,Madison Elementary School,961.288889,,SUB,,
+2023-01-09 18:42:55,Siara Mavis,Sub Claimed Shift via App,2023-02-19 12:00:00,Madison Elementary School,977.284722,,SUB,,
+2023-01-09 18:51:09,Siara Mavis,Sub Claimed Shift via App,2023-01-13 20:00:00,Van Buren Elementary School,97.1475,,SUB,,
+2023-01-09 19:11:58,Siara Mavis,Sub Claimed Shift via App,2023-01-10 20:00:00,Madison Elementary School,24.800833,,SUB,,
+2023-01-09 20:13:06,Siara Mavis,Sub Claimed Shift via App,2023-01-28 20:00:00,Tyler Elementary School,455.781944,,SUB,,
+2023-01-09 20:14:00,Siara Mavis,Sub Claimed Shift via App,2023-01-27 20:00:00,Tyler Elementary School,431.766944,,SUB,,
+2023-01-09 20:14:14,Siara Mavis,Sub Claimed Shift via App,2023-01-14 20:00:00,Tyler Elementary School,119.763056,,SUB,,
+2023-01-09 21:10:31,Siara Mavis,Sub Claimed Shift via App,2023-01-10 4:00:00,Madison Elementary School,6.824722,,SUB,,
+2023-01-09 21:18:21,Siara Mavis,Sub Claimed Shift via App,2023-01-20 20:00:00,Van Buren Elementary School,262.694167,,SUB,,
+2023-01-09 21:18:50,Siara Mavis,Sub Claimed Shift via App,2023-01-19 20:00:00,Van Buren Elementary School,238.686111,,SUB,,
+2023-01-09 21:19:06,Siara Mavis,Sub Claimed Shift via App,2023-02-03 20:00:00,Van Buren Elementary School,598.681944,,SUB,,
+2023-01-09 21:20:10,Siara Mavis,Sub Claimed Shift via App,2023-01-12 20:00:00,Van Buren Elementary School,70.664167,,SUB,,
+2023-01-09 23:53:37,Siara Mavis,Sub Claimed Shift via App,2023-01-11 12:00:00,Madison Elementary School,36.106389,,SUB,,
+2023-01-10 4:38:38,Siara Mavis,School Canceled the Shift,2023-01-10 4:00:00,Madison Elementary School,-0.643611,,SCHOOL,,SENT_HOME_BY_SCHOOL
+2023-01-10 16:38:24,Siara Mavis,School Canceled the Shift,2023-01-10 20:00:00,Madison Elementary School,3.360278,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-10 19:03:48,Siara Mavis,Sub Claimed Shift via App,2023-01-21 20:00:00,Van Buren Elementary School,264.936667,,SUB,,
+2023-01-10 20:09:47,Siara Mavis,Sub Claimed Shift via App,2023-01-16 12:00:00,Polk Elementary School,135.837222,,SUB,,
+2023-01-10 22:01:55,Siara Mavis,School Canceled the Shift,2023-01-16 12:00:00,Polk Elementary School,133.968056,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-10 22:49:24,Siara Mavis,Sub Claimed Shift via App,2023-01-16 20:00:00,Madison Elementary School,141.176944,,SUB,,
+2023-01-10 22:54:23,Siara Mavis,Sub Claimed Shift via App,2023-01-29 20:00:00,Taylor Elementary School,453.093611,,SUB,,
+2023-01-10 22:55:52,Siara Mavis,Sub Claimed Shift via App,2023-01-31 12:00:00,Taylor Elementary School,493.069167,,SUB,,
+2023-01-10 22:56:14,Siara Mavis,Sub Claimed Shift via App,2023-01-30 12:00:00,Taylor Elementary School,469.063056,,SUB,,
+2023-01-11 4:58:43,Siara Mavis,Sub Claimed Shift via App,2023-01-18 22:00:00,Madison Elementary School,185.021667,,SUB,,
+2023-01-11 11:26:54,Siara Mavis,Sub Claimed Shift via App,2023-01-15 13:00:00,Madison Elementary School,97.551667,,SUB,,
+2023-01-11 11:31:34,Siara Mavis,Sub Claimed Shift via App,2023-01-13 13:00:00,Madison Elementary School,49.474167,,SUB,,
+2023-01-11 21:09:19,Siara Mavis,Shift was verified and paid,2023-01-11 12:00:00,Madison Elementary School,-9.155278,,E-Connect ,,
+2023-01-11 21:22:08,Siara Mavis,Sub Claimed Shift via App,2023-01-18 4:00:00,Tyler Elementary School,150.631389,,SUB,,
+2023-01-11 22:18:05,Siara Mavis,Shift was unassigned from Sub,2023-01-19 20:00:00,Van Buren Elementary School,189.698889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-11 22:18:10,Siara Mavis,Shift was unassigned from Sub,2023-01-13 20:00:00,Van Buren Elementary School,45.6975,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-11 22:18:10,Siara Mavis,Shift was unassigned from Sub,2023-01-21 20:00:00,Van Buren Elementary School,237.6975,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-11 22:24:01,Siara Mavis,Sub Claimed Shift via App,2023-01-21 12:00:00,Tyler Elementary School,229.599722,,SUB,,
+2023-01-11 22:38:33,Siara Mavis,Sub Claimed Shift via App,2023-01-12 20:00:00,Madison Elementary School,21.357778,,SUB,,
+2023-01-11 22:47:55,Siara Mavis,Shift was unassigned from Sub,2023-01-20 20:00:00,Van Buren Elementary School,213.201389,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-11 22:54:52,Siara Mavis,Sub Claimed Shift via App,2023-01-19 20:00:00,Madison Elementary School,189.085556,,SUB,,
+2023-01-11 23:18:01,Siara Mavis,Shift was unassigned from Sub,2023-01-12 20:00:00,Van Buren Elementary School,20.699722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-11 23:19:51,Siara Mavis,Shift was unassigned from Sub,2023-02-03 20:00:00,Van Buren Elementary School,548.669167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-12 18:43:27,Siara Mavis,Sub Claimed Shift via App,2023-02-10 20:00:00,Madison Elementary School,697.276111,,SUB,,
+2023-01-12 18:45:27,Siara Mavis,Sub Claimed Shift via App,2023-02-01 20:00:00,Madison Elementary School,481.242778,,SUB,,
+2023-01-12 18:54:47,Siara Mavis,Sub Claimed Shift via App,2023-02-04 20:00:00,Madison Elementary School,553.087222,,SUB,,
+2023-01-12 18:55:34,Siara Mavis,Sub Claimed Shift via App,2023-02-05 4:00:00,Madison Elementary School,561.073889,,SUB,,
+2023-01-13 4:18:53,Siara Mavis,Shift was verified and paid,2023-01-12 20:00:00,Madison Elementary School,-8.314722,,E-Connect ,,
+2023-01-13 18:38:32,Siara Mavis,Sub Canceled ,2023-01-14 20:00:00,Tyler Elementary School,25.358056,,SUB,,NONE
+2023-01-13 18:43:35,Siara Mavis,Shift was verified and paid,2023-01-13 13:00:00,Madison Elementary School,-5.726111,,E-Connect ,,
+2023-01-14 18:31:02,Siara Mavis,Sub Claimed Shift via App,2023-01-25 20:00:00,Tyler Elementary School,265.483056,,SUB,,
+2023-01-15 19:01:37,Siara Mavis,Shift was verified and paid,2023-01-15 13:00:00,Madison Elementary School,-6.026944,,E-Connect ,,
+2023-01-16 16:11:35,Siara Mavis,School Canceled the Shift,2023-01-16 20:00:00,Madison Elementary School,3.807222,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-17 21:29:34,Siara Mavis,Sub Claimed Shift via App,2023-01-23 4:00:00,Madison Elementary School,126.507222,,SUB,,
+2023-01-17 21:49:06,Siara Mavis,School Canceled the Shift,2023-01-18 4:00:00,Tyler Elementary School,6.181944,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-17 21:50:47,Siara Mavis,School Canceled the Shift,2023-01-18 4:00:00,Tyler Elementary School,6.153889,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-19 3:01:42,Siara Mavis,Shift was verified and paid,2023-01-18 22:00:00,Madison Elementary School,-5.028333,,E-Connect ,,
+2023-01-19 14:57:38,Siara Mavis,Sub Claimed Shift via App,2023-01-26 12:00:00,Madison Elementary School,165.039722,,SUB,,
+2023-01-19 19:34:37,Siara Mavis,School Canceled the Shift,2023-01-21 12:00:00,Tyler Elementary School,40.423333,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-20 4:16:14,Siara Mavis,Shift was verified and paid,2023-01-19 20:00:00,Madison Elementary School,-8.270556,,E-Connect ,,
+2023-01-21 21:53:06,Siara Mavis,Sub Claimed Shift via App,2023-02-12 12:00:00,Madison Elementary School,518.115278,,SUB,,
+2023-01-22 0:54:50,Siara Mavis,Sub Claimed Shift via App,2023-01-24 20:00:00,Madison Elementary School,67.086389,,SUB,,
+2023-01-23 12:18:56,Siara Mavis,Shift was verified and paid,2023-01-23 4:00:00,Madison Elementary School,-8.315556,,E-Connect ,,
+2023-01-23 19:55:53,Siara Mavis,School Canceled the Shift,2023-01-25 20:00:00,Tyler Elementary School,48.068889,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-24 21:48:10,Siara Mavis,School Canceled the Shift,2023-01-27 20:00:00,Tyler Elementary School,70.1975,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-24 21:49:51,Siara Mavis,Sub Claimed Shift via App,2023-01-28 4:00:00,Madison Elementary School,78.169444,,SUB,,
+2023-01-24 21:57:30,Siara Mavis,School Canceled the Shift,2023-01-27 20:00:00,Tyler Elementary School,70.041944,,SCHOOL,,STAFFED_IN_HOUSE
+2023-01-24 22:14:42,Siara Mavis,Shift was unassigned from Sub,2023-01-28 20:00:00,Tyler Elementary School,93.755,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-24 22:15:57,Siara Mavis,Sub Claimed Shift via App,2023-01-28 20:00:00,Madison Elementary School,93.734167,,SUB,,
+2023-01-25 4:18:03,Siara Mavis,Shift was verified and paid,2023-01-24 20:00:00,Madison Elementary School,-8.300556,,E-Connect ,,
+2023-01-25 15:46:37,Siara Mavis,Sub Claimed Shift via App,2023-01-29 4:00:00,Madison Elementary School,84.223333,,SUB,,
+2023-01-27 0:53:12,Siara Mavis,Shift was verified and paid,2023-01-26 12:00:00,Madison Elementary School,-12.886667,,E-Connect ,,
+2023-01-27 18:04:25,Siara Mavis,Sub Canceled ,2023-01-28 20:00:00,Madison Elementary School,25.926389,,SUB,,NONE
+2023-01-28 12:22:09,Siara Mavis,Shift was verified and paid,2023-01-28 4:00:00,Madison Elementary School,-8.368889,,E-Connect ,,
+2023-01-28 17:34:55,Siara Mavis,Sub Claimed Shift via App,2023-02-03 4:00:00,Madison Elementary School,130.418056,,SUB,,
+2023-01-29 1:01:13,Siara Mavis,Sub Claimed Shift via App,2023-02-04 4:00:00,Madison Elementary School,146.979722,,SUB,,
+2023-01-29 1:12:23,Siara Mavis,Shift was unassigned from Sub,2023-01-29 20:00:00,Taylor Elementary School,18.793611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-29 1:12:24,Siara Mavis,Shift was unassigned from Sub,2023-01-30 12:00:00,Taylor Elementary School,34.793611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-29 1:12:29,Siara Mavis,Shift was unassigned from Sub,2023-01-31 12:00:00,Taylor Elementary School,58.791944,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-01-29 1:46:50,Siara Mavis,Sub Claimed Shift via App,2023-02-11 20:00:00,Madison Elementary School,330.219722,,SUB,,
+2023-01-29 6:43:30,Siara Mavis,Shift was verified and paid,2023-01-29 4:00:00,Madison Elementary School,-2.724722,,E-Connect ,,
+2023-02-01 3:42:50,Siara Mavis,Sub Claimed Shift via App,2023-02-08 20:00:00,Madison Elementary School,184.286111,,SUB,,
+2023-02-01 3:53:15,Siara Mavis,Sub Canceled ,2023-02-03 4:00:00,Madison Elementary School,48.112778,,SUB,,NONE
+2023-02-02 4:16:37,Siara Mavis,Shift was verified and paid,2023-02-01 20:00:00,Madison Elementary School,-8.276944,,E-Connect ,,
+2023-02-04 12:16:58,Siara Mavis,Shift was verified and paid,2023-02-04 4:00:00,Madison Elementary School,-8.2825,,E-Connect ,,
+2023-02-04 12:58:56,Siara Mavis,Shift was unassigned from Sub,2023-02-18 20:00:00,Madison Elementary School,343.017778,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:58:58,Siara Mavis,Shift was unassigned from Sub,2023-02-19 12:00:00,Madison Elementary School,359.017222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:00,Siara Mavis,Shift was unassigned from Sub,2023-02-05 4:00:00,Madison Elementary School,15.016667,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:01,Siara Mavis,Shift was unassigned from Sub,2023-02-12 12:00:00,Madison Elementary School,191.016667,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:04,Siara Mavis,Shift was unassigned from Sub,2023-02-04 20:00:00,Madison Elementary School,7.015556,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:04,Siara Mavis,Shift was unassigned from Sub,2023-02-13 20:00:00,Madison Elementary School,223.015556,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:08,Siara Mavis,Shift was unassigned from Sub,2023-02-11 20:00:00,Madison Elementary School,175.014722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:08,Siara Mavis,Shift was unassigned from Sub,2023-02-07 20:00:00,Madison Elementary School,79.014722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:12,Siara Mavis,Shift was unassigned from Sub,2023-02-10 20:00:00,Madison Elementary School,151.013611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:12,Siara Mavis,Shift was unassigned from Sub,2023-02-08 20:00:00,Madison Elementary School,103.013611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-04 12:59:15,Siara Mavis,Shift was unassigned from Sub,2023-02-06 20:00:00,Madison Elementary School,55.0125,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-06 12:39:50,Siara Mavis,Sub Claimed Shift via App,2023-02-11 20:00:00,Madison Elementary School,127.336389,,SUB,,
+2023-02-06 12:39:50,Siara Mavis,Sub Claimed Shift via App,2023-02-06 20:00:00,Madison Elementary School,7.336389,,SUB,,
+2023-02-06 12:39:58,Siara Mavis,Sub Claimed Shift via App,2023-02-12 20:00:00,Madison Elementary School,151.334167,,SUB,,
+2023-02-06 22:08:59,Siara Mavis,Sub Claimed Shift via App,2023-02-19 12:00:00,Madison Elementary School,301.850556,,SUB,,
+2023-02-06 22:35:28,Siara Mavis,Sub Claimed Shift via App,2023-02-08 20:00:00,Madison Elementary School,45.408889,,SUB,,
+2023-02-07 4:19:22,Siara Mavis,Shift was verified and paid,2023-02-06 20:00:00,Madison Elementary School,-8.3225,,E-Connect ,,
+2023-02-08 21:57:36,Siara Mavis,Shift was unassigned from Sub,2023-02-19 12:00:00,Madison Elementary School,254.04,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-08 22:18:15,Siara Mavis,Shift was unassigned from Sub,2023-02-11 20:00:00,Madison Elementary School,69.695833,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-08 22:18:15,Siara Mavis,Shift was unassigned from Sub,2023-02-12 20:00:00,Madison Elementary School,93.695833,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-08 22:18:16,Siara Mavis,Shift was unassigned from Sub,2023-02-08 20:00:00,Madison Elementary School,-2.304167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-09 20:59:06,Siara Mavis,Sub Claimed Shift via App,2023-02-12 4:30:00,Pierce Elementary School,55.515278,,SUB,,
+2023-02-09 21:00:12,Siara Mavis,Sub Claimed Shift via App,2023-02-13 4:30:00,Pierce Elementary School,79.496667,,SUB,,
+2023-02-10 14:39:11,Siara Mavis,School Canceled the Shift,2023-02-13 4:30:00,Pierce Elementary School,61.847222,,SCHOOL,,STAFFED_IN_HOUSE
+2023-02-10 14:39:19,Siara Mavis,School Canceled the Shift,2023-02-12 4:30:00,Pierce Elementary School,37.845,,SCHOOL,,STAFFED_IN_HOUSE
+2023-02-10 16:18:41,Siara Mavis,Sub Claimed Shift via App,2023-02-19 4:30:00,Buchanan Elementary School ,204.188889,,SUB,,
+2023-02-10 23:30:32,Siara Mavis,Sub Claimed Shift via App,2023-02-18 4:30:00,Buchanan Elementary School ,172.991389,,SUB,,
+2023-02-12 17:14:04,Siara Mavis,Sub Claimed Shift via App,2023-02-17 4:30:00,Buchanan Elementary School ,107.265833,,SUB,,
+2023-02-14 0:13:57,Siara Mavis,Sub Canceled ,2023-02-18 4:30:00,Buchanan Elementary School ,100.2675,,SUB,,NONE
+2023-02-15 20:46:08,Siara Mavis,Sub Claimed Shift via App,2023-02-19 20:30:00,Pierce Elementary School,95.731389,,SUB,,
+2023-02-15 21:11:28,Siara Mavis,Sub Claimed Shift via App,2023-02-19 20:30:00,Pierce Elementary School,95.308889,,SUB,,
+2023-02-16 21:46:12,Siara Mavis,Shift was unassigned from Sub,2023-02-17 4:30:00,Buchanan Elementary School ,6.73,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-16 21:46:13,Siara Mavis,Shift was unassigned from Sub,2023-02-19 4:30:00,Buchanan Elementary School ,54.729722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-16 21:48:52,Siara Mavis,Sub Claimed Shift via App,2023-02-18 20:30:00,Pierce Elementary School,46.685556,,SUB,,
+2023-02-18 18:22:51,Siara Mavis,Shift was unassigned from Sub,2023-02-19 20:30:00,Pierce Elementary School,26.119444,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-18 18:22:53,Siara Mavis,Shift was unassigned from Sub,2023-02-18 20:30:00,Pierce Elementary School,2.118889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-21 22:18:36,Siara Mavis,Sub Claimed Shift via App,2023-02-24 20:00:00,Harrison Elementary School ,69.69,,SUB,,
+2023-02-21 22:20:49,Siara Mavis,Sub Claimed Shift via App,2023-02-25 20:00:00,Harrison Elementary School ,93.653333,,SUB,,
+2023-02-21 22:21:56,Siara Mavis,Sub Claimed Shift via App,2023-02-26 20:00:00,Harrison Elementary School ,117.634722,,SUB,,
+2023-02-21 22:27:18,Siara Mavis,Sub Claimed Shift via App,2023-03-11 20:30:00,Fillmore Elementary School ,430.045,,SUB,,
+2023-02-21 22:27:18,Siara Mavis,Sub Claimed Shift via App,2023-03-12 19:30:00,Fillmore Elementary School ,453.045,,SUB,,
+2023-02-22 7:21:43,Siara Mavis,Sub Claimed Shift via App,2023-02-23 20:00:00,Harrison Elementary School ,36.638333,,SUB,,
+2023-02-22 7:24:13,Siara Mavis,Sub Claimed Shift via App,2023-02-27 5:00:00,Lincoln Elementary ,117.596389,,SUB,,
+2023-02-22 14:28:51,Siara Mavis,School Canceled the Shift,2023-02-23 20:00:00,Harrison Elementary School ,29.519444,,SCHOOL,,STAFFED_IN_HOUSE
+2023-02-22 15:24:25,Siara Mavis,Sub Claimed Shift via App,2023-03-07 4:00:00,Madison Elementary School,300.593333,,SUB,,
+2023-02-22 15:24:45,Siara Mavis,Sub Claimed Shift via App,2023-03-08 20:00:00,Madison Elementary School,340.5875,,SUB,,
+2023-02-22 15:26:59,Siara Mavis,Sub Claimed Shift via App,2023-03-29 19:00:00,Madison Elementary School,843.550278,,SUB,,
+2023-02-22 15:33:10,Siara Mavis,Sub Claimed Shift via App,2023-03-10 20:00:00,Madison Elementary School,388.447222,,SUB,,
+2023-02-22 15:33:59,Siara Mavis,Sub Claimed Shift via App,2023-03-15 19:00:00,Madison Elementary School,507.433889,,SUB,,
+2023-02-22 15:46:29,Siara Mavis,Sub Claimed Shift via App,2023-03-25 19:00:00,Madison Elementary School,747.225556,,SUB,,
+2023-02-22 15:47:20,Siara Mavis,Sub Claimed Shift via App,2023-03-20 19:00:00,Madison Elementary School,627.211389,,SUB,,
+2023-02-22 15:49:07,Siara Mavis,Sub Claimed Shift via App,2023-03-22 19:00:00,Madison Elementary School,675.181667,,SUB,,
+2023-02-24 0:25:18,Siara Mavis,Shift was unassigned from Sub,2023-02-26 20:00:00,Harrison Elementary School ,67.578333,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-24 0:25:22,Siara Mavis,Shift was unassigned from Sub,2023-02-24 20:00:00,Harrison Elementary School ,19.5775,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-24 0:25:23,Siara Mavis,Shift was unassigned from Sub,2023-02-25 20:00:00,Harrison Elementary School ,43.577222,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-24 0:27:33,Siara Mavis,Sub Claimed Shift via App,2023-02-26 4:00:00,Madison Elementary School,51.540833,,SUB,,
+2023-02-26 4:44:26,Siara Mavis,School Canceled the Shift,2023-02-26 4:00:00,Madison Elementary School,-0.740278,,SCHOOL,,SENT_HOME_BY_SCHOOL
+2023-02-26 15:57:48,Siara Mavis,Sub Claimed Shift via App,2023-03-09 20:00:00,Madison Elementary School,268.036944,,SUB,,
+2023-02-27 1:03:22,Siara Mavis,Shift was unassigned from Sub,2023-02-27 5:00:00,Lincoln Elementary ,3.944167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-02-27 21:31:23,Siara Mavis,Sub Claimed Shift via App,2023-03-06 20:00:00,Madison Elementary School,166.477222,,SUB,,
+2023-02-27 21:31:35,Siara Mavis,Sub Claimed Shift via App,2023-03-07 20:00:00,Madison Elementary School,190.473889,,SUB,,
+2023-03-03 4:18:15,Siara Mavis,Sub Canceled ,2023-03-07 4:00:00,Madison Elementary School,95.696111,,SUB,,NONE
+2023-03-06 19:13:51,Siara Mavis,Shift was unassigned from Sub,2023-03-09 20:00:00,Madison Elementary School,72.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:51,Siara Mavis,Shift was unassigned from Sub,2023-03-15 19:00:00,Madison Elementary School,215.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:51,Siara Mavis,Shift was unassigned from Sub,2023-03-25 19:00:00,Madison Elementary School,455.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:51,Siara Mavis,Shift was unassigned from Sub,2023-03-06 20:00:00,Madison Elementary School,0.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:51,Siara Mavis,Shift was unassigned from Sub,2023-03-07 20:00:00,Madison Elementary School,24.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:52,Siara Mavis,Shift was unassigned from Sub,2023-03-20 19:00:00,Madison Elementary School,335.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:52,Siara Mavis,Shift was unassigned from Sub,2023-03-08 20:00:00,Madison Elementary School,48.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:52,Siara Mavis,Shift was unassigned from Sub,2023-03-10 20:00:00,Madison Elementary School,96.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:52,Siara Mavis,Shift was unassigned from Sub,2023-03-29 19:00:00,Madison Elementary School,551.769167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 19:13:52,Siara Mavis,Shift was unassigned from Sub,2023-03-22 19:00:00,Madison Elementary School,383.768889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-06 20:30:13,Siara Mavis,Sub Claimed Shift via App,2023-03-08 20:30:00,Johnson Elementary School,47.996389,,SUB,,
+2023-03-06 20:31:12,Siara Mavis,Sub Claimed Shift via App,2023-03-10 20:30:00,Grant Elementary School,95.98,,SUB,,
+2023-03-06 20:31:42,Siara Mavis,Sub Claimed Shift via App,2023-03-15 19:30:00,Johnson Elementary School,214.971944,,SUB,,
+2023-03-06 20:31:56,Siara Mavis,Sub Claimed Shift via App,2023-03-13 19:30:00,Johnson Elementary School,166.968056,,SUB,,
+2023-03-08 16:28:32,Siara Mavis,Shift was unassigned from Sub,2023-03-13 19:30:00,Johnson Elementary School,123.024722,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-08 16:28:32,Siara Mavis,Shift was unassigned from Sub,2023-03-08 20:30:00,Johnson Elementary School,4.024444,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-08 16:28:32,Siara Mavis,Shift was unassigned from Sub,2023-03-15 19:30:00,Johnson Elementary School,171.024444,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-08 16:32:00,Siara Mavis,Sub Claimed Shift via App,2023-03-13 19:30:00,Fillmore Elementary School ,122.966944,,SUB,,
+2023-03-08 16:32:27,Siara Mavis,Sub Claimed Shift via App,2023-03-20 19:30:00,Fillmore Elementary School ,290.959167,,SUB,,
+2023-03-08 17:26:59,Siara Mavis,Sub Claimed Shift via App,2023-03-09 5:00:00,Hayes Elementary School,11.550556,,SUB,,
+2023-03-08 21:46:21,Siara Mavis,Shift was unassigned from Sub,2023-03-09 5:00:00,Hayes Elementary School,7.227778,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-09 20:07:23,Siara Mavis,Sub Claimed Shift via App,2023-03-26 3:30:00,Fillmore Elementary School ,391.377222,,SUB,,
+2023-03-09 20:22:47,Siara Mavis,Sub Claimed Shift via App,2023-04-01 3:30:00,Fillmore Elementary School ,535.120278,,SUB,,
+2023-03-09 20:33:06,Siara Mavis,Sub Claimed Shift via App,2023-04-02 3:00:00,Garfield Elementary School,558.448611,,SUB,,
+2023-03-09 20:33:46,Siara Mavis,Sub Claimed Shift via App,2023-03-27 3:00:00,Garfield Elementary School,414.4375,,SUB,,
+2023-03-09 20:34:13,Siara Mavis,Sub Claimed Shift via App,2023-03-28 19:00:00,Arthur Elementary School,454.429722,,SUB,,
+2023-03-09 20:34:43,Siara Mavis,Sub Claimed Shift via App,2023-04-05 3:00:00,Garfield Elementary School,630.421389,,SUB,,
+2023-03-09 22:30:36,Siara Mavis,Sub Claimed Shift via App,2023-03-14 19:30:00,Fillmore Elementary School ,116.99,,SUB,,
+2023-03-09 23:16:41,Siara Mavis,Sub Claimed Shift via App,2023-03-19 3:30:00,Fillmore Elementary School ,220.221944,,SUB,,
+2023-03-10 15:12:16,Siara Mavis,Shift was unassigned from Sub,2023-03-10 20:30:00,Grant Elementary School,5.295556,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-10 15:16:43,Siara Mavis,Sub Claimed Shift via App,2023-03-25 3:30:00,Fillmore Elementary School ,348.221667,,SUB,,
+2023-03-12 4:46:10,Siara Mavis,Shift was verified and paid,2023-03-11 20:30:00,Fillmore Elementary School ,-8.269444,,E-Connect ,,
+2023-03-12 17:26:03,Siara Mavis,School Canceled the Shift,2023-03-12 19:30:00,Fillmore Elementary School ,2.066111,,SCHOOL,Employee requested due to emergency,USER_CANT_WORK
+2023-03-13 12:35:35,Siara Mavis,School Canceled the Shift,2023-03-13 19:30:00,Fillmore Elementary School ,6.907222,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-14 13:20:19,Siara Mavis,School Canceled the Shift,2023-03-14 19:30:00,Fillmore Elementary School ,6.161389,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-18 4:03:10,Siara Mavis,Sub Claimed Shift via App,2023-03-22 3:00:00,Cleveland Elementary School,94.9475,,SUB,,
+2023-03-19 11:29:47,Siara Mavis,Shift was verified and paid,2023-03-19 3:30:00,Fillmore Elementary School ,-7.996389,,E-Connect ,,
+2023-03-19 19:33:11,Siara Mavis,School Canceled the Shift,2023-03-22 3:00:00,Cleveland Elementary School,55.447222,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-20 14:52:55,Siara Mavis,School Canceled the Shift,2023-03-20 19:30:00,Fillmore Elementary School ,4.618333,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-20 14:54:00,Siara Mavis,Sub Claimed Shift via App,2023-03-20 21:30:00,McKinley Elementary School,6.600278,,SUB,,
+2023-03-20 16:04:18,Siara Mavis,School Canceled the Shift,2023-04-01 3:30:00,Fillmore Elementary School ,275.428611,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-20 16:16:19,Siara Mavis,Sub Claimed Shift via App,2023-03-23 21:00:00,Polk Elementary School,76.728056,,SUB,,
+2023-03-20 16:16:30,Siara Mavis,Sub Claimed Shift via App,2023-03-22 21:00:00,Polk Elementary School,52.725278,,SUB,,
+2023-03-20 17:04:55,Siara Mavis,Shift was unassigned from Sub,2023-03-20 21:30:00,McKinley Elementary School,4.418056,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-20 18:01:29,Siara Mavis,Sub Claimed Shift via App,2023-03-20 19:45:00,Roosevelt Elementary ,1.725278,,SUB,,
+2023-03-20 23:39:06,Siara Mavis,Sub Claimed Shift via App,2023-03-21 11:45:00,Roosevelt Elementary ,12.098333,,SUB,,
+2023-03-21 4:06:20,Siara Mavis,Shift was verified and paid,2023-03-20 19:45:00,Roosevelt Elementary ,-8.355556,,E-Connect ,,
+2023-03-21 5:09:07,Siara Mavis,Shift was unassigned from Sub,2023-03-21 11:45:00,Roosevelt Elementary ,6.598333,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-23 3:03:22,Siara Mavis,Shift was verified and paid,2023-03-22 21:00:00,Polk Elementary School,-6.055833,,E-Connect ,,
+2023-03-23 15:16:16,Siara Mavis,Sub Claimed Shift via App,2023-03-31 3:00:00,Taft Elementary ,179.728889,,SUB,,
+2023-03-23 15:16:56,Siara Mavis,Sub Claimed Shift via App,2023-04-01 3:00:00,Wilson Elementary ,203.718056,,SUB,,
+2023-03-23 15:23:58,Siara Mavis,Sub Claimed Shift via App,2023-04-16 3:00:00,Wilson Elementary ,563.600833,,SUB,,
+2023-03-23 17:20:34,Siara Mavis,Shift was unassigned from Sub,2023-03-23 21:00:00,Polk Elementary School,3.6575,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-24 16:00:00,Siara Mavis,School Canceled the Shift,2023-03-25 3:30:00,Fillmore Elementary School ,11.500278,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-24 16:01:39,Siara Mavis,School Canceled the Shift,2023-03-26 3:30:00,Fillmore Elementary School ,35.4725,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-24 16:05:03,Siara Mavis,Sub Claimed Shift via App,2023-03-26 3:00:00,Wilson Elementary ,34.916111,,SUB,,
+2023-03-24 16:05:26,Siara Mavis,Sub Claimed Shift via App,2023-04-03 3:00:00,Garfield Elementary School,226.909444,,SUB,,
+2023-03-24 16:05:47,Siara Mavis,Sub Claimed Shift via App,2023-04-09 3:00:00,Garfield Elementary School,370.903611,,SUB,,
+2023-03-24 16:06:03,Siara Mavis,Sub Claimed Shift via App,2023-04-10 3:00:00,Garfield Elementary School,394.899167,,SUB,,
+2023-03-24 16:06:23,Siara Mavis,Sub Claimed Shift via App,2023-04-12 3:00:00,Garfield Elementary School,442.893889,,SUB,,
+2023-03-24 16:06:34,Siara Mavis,Sub Claimed Shift via App,2023-04-13 3:00:00,Garfield Elementary School,466.890556,,SUB,,
+2023-03-24 16:06:53,Siara Mavis,Sub Claimed Shift via App,2023-04-15 3:00:00,Garfield Elementary School,514.885278,,SUB,,
+2023-03-24 16:07:15,Siara Mavis,Sub Claimed Shift via App,2023-04-17 3:00:00,Garfield Elementary School,562.879444,,SUB,,
+2023-03-24 16:07:34,Siara Mavis,Sub Claimed Shift via App,2023-04-20 3:00:00,Garfield Elementary School,634.874167,,SUB,,
+2023-03-24 16:07:57,Siara Mavis,Sub Claimed Shift via App,2023-04-22 3:00:00,Garfield Elementary School,682.867778,,SUB,,
+2023-03-24 16:08:08,Siara Mavis,Sub Claimed Shift via App,2023-04-23 3:00:00,Garfield Elementary School,706.864722,,SUB,,
+2023-03-24 16:08:17,Siara Mavis,Sub Claimed Shift via App,2023-04-24 3:00:00,Garfield Elementary School,730.861944,,SUB,,
+2023-03-24 16:11:54,Siara Mavis,Sub Claimed Shift via App,2023-04-21 3:00:00,Garfield Elementary School,658.801667,,SUB,,
+2023-03-24 16:12:30,Siara Mavis,Sub Claimed Shift via App,2023-04-26 3:00:00,Garfield Elementary School,778.791667,,SUB,,
+2023-03-24 16:12:51,Siara Mavis,Sub Claimed Shift via App,2023-04-29 3:00:00,Garfield Elementary School,850.785833,,SUB,,
+2023-03-24 16:12:58,Siara Mavis,Sub Claimed Shift via App,2023-04-30 3:00:00,Garfield Elementary School,874.784167,,SUB,,
+2023-03-24 16:31:57,Siara Mavis,Sub Claimed Shift via App,2023-03-25 3:00:00,Garfield Elementary School,10.467778,,SUB,,
+2023-03-25 2:19:03,Siara Mavis,Sub Canceled ,2023-03-25 3:00:00,Garfield Elementary School,0.682778,,SUB,,NONE
+2023-03-25 2:19:05,Siara Mavis,Shift was unassigned from Sub,2023-03-26 3:00:00,Wilson Elementary ,24.682222,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:05,Siara Mavis,Shift was unassigned from Sub,2023-04-02 3:00:00,Garfield Elementary School,192.682222,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:05,Siara Mavis,Shift was unassigned from Sub,2023-04-05 3:00:00,Garfield Elementary School,264.681944,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:05,Siara Mavis,Shift was unassigned from Sub,2023-03-27 3:00:00,Garfield Elementary School,48.681944,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:06,Siara Mavis,Shift was unassigned from Sub,2023-04-10 3:00:00,Garfield Elementary School,384.681944,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:06,Siara Mavis,Shift was unassigned from Sub,2023-04-09 3:00:00,Garfield Elementary School,360.681944,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:08,Siara Mavis,Shift was unassigned from Sub,2023-03-28 19:00:00,Arthur Elementary School,88.681111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:08,Siara Mavis,Shift was unassigned from Sub,2023-03-31 3:00:00,Taft Elementary ,144.681111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:09,Siara Mavis,Shift was unassigned from Sub,2023-04-15 3:00:00,Garfield Elementary School,504.681111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:09,Siara Mavis,Shift was unassigned from Sub,2023-04-13 3:00:00,Garfield Elementary School,456.681111,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:09,Siara Mavis,Shift was unassigned from Sub,2023-04-16 3:00:00,Wilson Elementary ,528.680833,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:09,Siara Mavis,Shift was unassigned from Sub,2023-04-12 3:00:00,Garfield Elementary School,432.680833,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:09,Siara Mavis,Shift was unassigned from Sub,2023-04-20 3:00:00,Garfield Elementary School,624.680833,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:09,Siara Mavis,Shift was unassigned from Sub,2023-04-24 3:00:00,Garfield Elementary School,720.680833,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:10,Siara Mavis,Shift was unassigned from Sub,2023-04-23 3:00:00,Garfield Elementary School,696.680556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:10,Siara Mavis,Shift was unassigned from Sub,2023-04-26 3:00:00,Garfield Elementary School,768.680556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:11,Siara Mavis,Shift was unassigned from Sub,2023-04-03 3:00:00,Garfield Elementary School,216.680556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:11,Siara Mavis,Shift was unassigned from Sub,2023-04-29 3:00:00,Garfield Elementary School,840.680556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:12,Siara Mavis,Shift was unassigned from Sub,2023-04-22 3:00:00,Garfield Elementary School,672.680278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:12,Siara Mavis,Shift was unassigned from Sub,2023-04-21 3:00:00,Garfield Elementary School,648.680278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:12,Siara Mavis,Shift was unassigned from Sub,2023-04-01 3:00:00,Wilson Elementary ,168.68,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:12,Siara Mavis,Shift was unassigned from Sub,2023-04-17 3:00:00,Garfield Elementary School,552.68,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-25 2:19:13,Siara Mavis,Shift was unassigned from Sub,2023-04-30 3:00:00,Garfield Elementary School,864.68,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-03-26 19:58:38,Siara Mavis,Sub Claimed Shift via App,2023-04-02 3:00:00,Garfield Elementary School,151.022778,,SUB,,
+2023-03-26 19:58:50,Siara Mavis,Sub Claimed Shift via App,2023-04-03 3:00:00,Garfield Elementary School,175.019444,,SUB,,
+2023-03-26 19:59:29,Siara Mavis,Sub Claimed Shift via App,2023-03-31 19:15:00,Harding Elementary ,119.258889,,SUB,,
+2023-03-26 19:59:54,Siara Mavis,Sub Claimed Shift via App,2023-04-10 3:00:00,Garfield Elementary School,343.001667,,SUB,,
+2023-03-26 20:00:03,Siara Mavis,Sub Claimed Shift via App,2023-04-11 3:00:00,Garfield Elementary School,366.999167,,SUB,,
+2023-03-26 20:01:06,Siara Mavis,Sub Claimed Shift via App,2023-04-12 3:00:00,Garfield Elementary School,390.981667,,SUB,,
+2023-03-26 20:02:39,Siara Mavis,Sub Claimed Shift via App,2023-03-29 11:00:00,Taft Elementary ,62.956111,,SUB,,
+2023-03-26 20:02:57,Siara Mavis,Sub Claimed Shift via App,2023-04-04 19:15:00,Harding Elementary ,215.201111,,SUB,,
+2023-03-26 20:03:16,Siara Mavis,Sub Claimed Shift via App,2023-04-15 3:00:00,Garfield Elementary School,462.945833,,SUB,,
+2023-03-26 20:08:53,Siara Mavis,Sub Claimed Shift via App,2023-04-09 3:00:00,Garfield Elementary School,318.851944,,SUB,,
+2023-03-26 20:09:05,Siara Mavis,Sub Claimed Shift via App,2023-04-17 3:00:00,Garfield Elementary School,510.848889,,SUB,,
+2023-03-26 20:11:45,Siara Mavis,Sub Claimed Shift via App,2023-04-21 3:00:00,Garfield Elementary School,606.804167,,SUB,,
+2023-03-26 20:11:57,Siara Mavis,Sub Claimed Shift via App,2023-04-22 3:00:00,Garfield Elementary School,630.801111,,SUB,,
+2023-03-26 20:12:12,Siara Mavis,Sub Claimed Shift via App,2023-04-24 3:00:00,Garfield Elementary School,678.796944,,SUB,,
+2023-03-26 20:12:29,Siara Mavis,Sub Claimed Shift via App,2023-04-26 3:00:00,Garfield Elementary School,726.792222,,SUB,,
+2023-03-26 20:13:10,Siara Mavis,Sub Claimed Shift via App,2023-04-30 3:00:00,Garfield Elementary School,822.780833,,SUB,,
+2023-03-26 20:13:21,Siara Mavis,Sub Claimed Shift via App,2023-04-29 3:00:00,Garfield Elementary School,798.777778,,SUB,,
+2023-03-27 14:58:35,Siara Mavis,Sub Claimed Shift via App,2023-03-31 3:00:00,Taft Elementary ,84.023889,,SUB,,
+2023-03-27 15:06:38,Siara Mavis,Sub Claimed Shift via App,2023-04-20 3:00:00,Garfield Elementary School,563.889722,,SUB,,
+2023-03-27 16:42:59,Siara Mavis,School Canceled the Shift,2023-03-29 11:00:00,Taft Elementary ,42.283889,,SCHOOL,,
+2023-03-28 11:08:51,Siara Mavis,School Canceled the Shift,2023-04-02 3:00:00,Garfield Elementary School,111.852778,,SCHOOL,,STAFFED_IN_HOUSE
+2023-03-28 11:09:42,Siara Mavis,Sub Claimed Shift via App,2023-04-02 3:00:00,Wilson Elementary ,111.838333,,SUB,,
+2023-03-28 15:10:55,Siara Mavis,Sub Claimed Shift via App,2023-03-28 19:00:00,Coolidge Elementary ,3.818333,,SUB,,
+2023-03-28 16:04:34,Siara Mavis,Sub Claimed Shift via App,2023-04-03 19:00:00,Taft Elementary ,146.924167,,SUB,,
+2023-03-29 3:01:40,Siara Mavis,Shift was verified and paid,2023-03-28 19:00:00,Coolidge Elementary ,-8.027778,,E-Connect ,,
+2023-03-30 23:39:47,Siara Mavis,Sub Claimed Shift via App,2023-04-06 3:00:00,Garfield Elementary School,147.337222,,SUB,,
+2023-03-30 23:48:01,Siara Mavis,Shift was unassigned from Sub,2023-03-31 3:00:00,Taft Elementary ,3.2,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-30 23:48:01,Siara Mavis,Shift was unassigned from Sub,2023-04-03 19:00:00,Taft Elementary ,91.2,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-31 14:20:06,Siara Mavis,Shift was unassigned from Sub,2023-04-04 19:15:00,Harding Elementary ,100.915278,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-31 14:20:06,Siara Mavis,Shift was unassigned from Sub,2023-03-31 19:15:00,Harding Elementary ,4.915,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-03-31 14:22:58,Siara Mavis,Sub Claimed Shift via App,2023-04-16 3:00:00,Wilson Elementary ,372.617222,,SUB,,
+2023-04-01 23:22:44,Siara Mavis,Sub Claimed Shift via App,2023-04-07 4:00:00,Hoover Elementary School,124.621111,,SUB,,
+2023-04-01 23:23:09,Siara Mavis,Sub Claimed Shift via App,2023-04-18 3:00:00,Garfield Elementary School,387.614167,,SUB,,
+2023-04-01 23:31:19,Siara Mavis,Sub Claimed Shift via App,2023-05-01 3:00:00,Garfield Elementary School,699.478056,,SUB,,
+2023-04-01 23:31:34,Siara Mavis,Sub Claimed Shift via App,2023-05-05 3:00:00,Garfield Elementary School,795.474167,,SUB,,
+2023-04-01 23:32:02,Siara Mavis,Sub Claimed Shift via App,2023-05-06 3:00:00,Garfield Elementary School,819.466111,,SUB,,
+2023-04-01 23:32:13,Siara Mavis,Sub Claimed Shift via App,2023-05-07 3:00:00,Garfield Elementary School,843.463333,,SUB,,
+2023-04-02 0:17:39,Siara Mavis,Shift was unassigned from Sub,2023-04-16 3:00:00,Wilson Elementary ,338.706111,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-02 0:17:39,Siara Mavis,Shift was unassigned from Sub,2023-04-02 3:00:00,Wilson Elementary ,2.706111,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-02 21:49:41,Siara Mavis,Sub Claimed Shift via App,2023-04-08 3:00:00,Garfield Elementary School,125.172222,,SUB,,
+2023-04-02 22:12:51,Siara Mavis,Sub Claimed Shift via App,2023-04-28 3:00:00,Garfield Elementary School,604.785833,,SUB,,
+2023-04-03 11:07:09,Siara Mavis,Shift was verified and paid,2023-04-03 3:00:00,Garfield Elementary School,-8.119167,,E-Connect ,,
+2023-04-03 17:40:58,Siara Mavis,School Canceled the Shift,2023-04-10 3:00:00,Garfield Elementary School,153.3175,,SCHOOL,,STAFFED_IN_HOUSE
+2023-04-03 17:51:10,Siara Mavis,Sub Claimed Shift via App,2023-04-04 19:00:00,Coolidge Elementary ,25.1475,,SUB,,
+2023-04-04 16:03:43,Siara Mavis,Shift was unassigned from Sub,2023-04-04 19:00:00,Coolidge Elementary ,2.938333,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-05 13:59:20,Siara Mavis,School Canceled the Shift,2023-04-07 4:00:00,Hoover Elementary School,38.011111,,SCHOOL,,STAFFED_IN_HOUSE
+2023-04-05 17:29:22,Siara Mavis,Sub Canceled ,2023-04-06 3:00:00,Garfield Elementary School,9.510833,,SUB,,NONE
+2023-04-08 0:17:52,Siara Mavis,Sub Claimed Shift via App,2023-04-10 3:30:00,FDR Elementary ,51.202222,,SUB,,
+2023-04-08 11:01:51,Siara Mavis,Shift was verified and paid,2023-04-08 3:00:00,Garfield Elementary School,-8.030556,,E-Connect ,,
+2023-04-09 11:06:09,Siara Mavis,Shift was verified and paid,2023-04-09 3:00:00,Garfield Elementary School,-8.1025,,E-Connect ,,
+2023-04-09 23:17:31,Siara Mavis,Shift was unassigned from Sub,2023-04-10 3:30:00,FDR Elementary ,4.208056,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-10 23:57:08,Siara Mavis,Sub Claimed Shift via App,2023-04-13 23:15:00,Harding Elementary ,71.297778,,SUB,,
+2023-04-11 1:16:16,Siara Mavis,Shift was unassigned from Sub,2023-05-05 3:00:00,Garfield Elementary School,577.729167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:16,Siara Mavis,Shift was unassigned from Sub,2023-04-11 3:00:00,Garfield Elementary School,1.729167,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:16,Siara Mavis,Shift was unassigned from Sub,2023-04-17 3:00:00,Garfield Elementary School,145.728889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:16,Siara Mavis,Shift was unassigned from Sub,2023-04-30 3:00:00,Garfield Elementary School,457.728889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:16,Siara Mavis,Shift was unassigned from Sub,2023-04-29 3:00:00,Garfield Elementary School,433.728889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:16,Siara Mavis,Shift was unassigned from Sub,2023-04-21 3:00:00,Garfield Elementary School,241.728889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:17,Siara Mavis,Shift was unassigned from Sub,2023-04-20 3:00:00,Garfield Elementary School,217.728889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:17,Siara Mavis,Shift was unassigned from Sub,2023-04-12 3:00:00,Garfield Elementary School,25.728889,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:17,Siara Mavis,Shift was unassigned from Sub,2023-04-18 3:00:00,Garfield Elementary School,169.728611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:17,Siara Mavis,Shift was unassigned from Sub,2023-04-22 3:00:00,Garfield Elementary School,265.728611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:18,Siara Mavis,Shift was unassigned from Sub,2023-04-15 3:00:00,Garfield Elementary School,97.728611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:18,Siara Mavis,Shift was unassigned from Sub,2023-04-26 3:00:00,Garfield Elementary School,361.728611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:18,Siara Mavis,Shift was unassigned from Sub,2023-05-06 3:00:00,Garfield Elementary School,601.728333,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:19,Siara Mavis,Shift was unassigned from Sub,2023-04-24 3:00:00,Garfield Elementary School,313.728056,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:19,Siara Mavis,Shift was unassigned from Sub,2023-05-07 3:00:00,Garfield Elementary School,625.728056,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:20,Siara Mavis,Shift was unassigned from Sub,2023-04-28 3:00:00,Garfield Elementary School,409.728056,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:16:22,Siara Mavis,Shift was unassigned from Sub,2023-05-01 3:00:00,Garfield Elementary School,481.7275,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-11 1:18:51,Siara Mavis,Sub Claimed Shift via App,2023-04-14 19:00:00,Truman Elementary ,89.686111,,SUB,,
+2023-04-11 1:19:03,Siara Mavis,Sub Claimed Shift via App,2023-04-15 19:15:00,Harding Elementary ,113.9325,,SUB,,
+2023-04-13 14:41:25,Siara Mavis,Sub Claimed Shift via App,2023-04-23 3:00:00,Madison Elementary School,228.309722,,SUB,,
+2023-04-13 14:43:38,Siara Mavis,Sub Claimed Shift via App,2023-04-22 19:00:00,Madison Elementary School,220.272778,,SUB,,
+2023-04-13 14:59:54,Siara Mavis,Sub Claimed Shift via App,2023-04-17 3:00:00,Garfield Elementary School,84.001944,,SUB,,
+2023-04-13 15:00:14,Siara Mavis,Sub Claimed Shift via App,2023-04-19 12:00:00,Madison Elementary School,140.996111,,SUB,,
+2023-04-13 15:01:34,Siara Mavis,Sub Claimed Shift via App,2023-05-01 19:00:00,Madison Elementary School,435.974167,,SUB,,
+2023-04-13 15:26:52,Siara Mavis,Sub Claimed Shift via App,2023-04-24 19:00:00,Madison Elementary School,267.5525,,SUB,,
+2023-04-13 19:09:09,Siara Mavis,Sub Claimed Shift via App,2023-04-18 19:00:00,Truman Elementary ,119.847778,,SUB,,
+2023-04-13 19:43:53,Siara Mavis,Shift was unassigned from Sub,2023-04-13 23:15:00,Harding Elementary ,3.518611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-13 19:43:55,Siara Mavis,Shift was unassigned from Sub,2023-04-15 19:15:00,Harding Elementary ,47.518333,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-13 19:45:27,Siara Mavis,Sub Claimed Shift via App,2023-04-15 21:00:00,Madison Elementary School,49.242778,,SUB,,
+2023-04-14 3:42:32,Siara Mavis,Sub Claimed Shift via App,2023-04-18 3:00:00,Madison Elementary School,95.291389,,SUB,,
+2023-04-14 14:40:54,Siara Mavis,Sub Claimed Shift via App,2023-05-15 3:00:00,Madison Elementary School,732.318333,,SUB,,
+2023-04-14 14:41:26,Siara Mavis,Sub Claimed Shift via App,2023-05-04 19:00:00,Madison Elementary School,484.309444,,SUB,,
+2023-04-14 14:41:37,Siara Mavis,Sub Claimed Shift via App,2023-05-05 21:00:00,Madison Elementary School,510.306389,,SUB,,
+2023-04-14 14:41:51,Siara Mavis,Sub Claimed Shift via App,2023-05-08 19:00:00,Madison Elementary School,580.302778,,SUB,,
+2023-04-14 14:55:29,Siara Mavis,Shift was unassigned from Sub,2023-04-17 3:00:00,Garfield Elementary School,60.075278,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-14 14:58:22,Siara Mavis,Sub Claimed Shift via App,2023-04-29 12:00:00,Madison Elementary School,357.027222,,SUB,,
+2023-04-14 15:00:20,Siara Mavis,Sub Claimed Shift via App,2023-05-07 21:00:00,Madison Elementary School,557.994722,,SUB,,
+2023-04-14 16:24:56,Siara Mavis,Sub Claimed Shift via App,2023-05-12 12:00:00,Madison Elementary School,667.584444,,SUB,,
+2023-04-14 16:25:48,Siara Mavis,Sub Claimed Shift via App,2023-05-13 11:00:00,Madison Elementary School,690.570278,,SUB,,
+2023-04-14 16:26:04,Siara Mavis,Sub Claimed Shift via App,2023-05-17 19:00:00,Madison Elementary School,794.565556,,SUB,,
+2023-04-14 16:26:37,Siara Mavis,Sub Claimed Shift via App,2023-05-19 21:00:00,Madison Elementary School,844.556667,,SUB,,
+2023-04-14 16:26:50,Siara Mavis,Sub Claimed Shift via App,2023-05-21 3:00:00,Madison Elementary School,874.552778,,SUB,,
+2023-04-14 16:26:59,Siara Mavis,Sub Claimed Shift via App,2023-05-21 21:00:00,Madison Elementary School,892.550278,,SUB,,
+2023-04-14 16:27:11,Siara Mavis,Sub Claimed Shift via App,2023-05-22 19:00:00,Madison Elementary School,914.547222,,SUB,,
+2023-04-14 16:27:20,Siara Mavis,Sub Claimed Shift via App,2023-05-23 19:00:00,Madison Elementary School,938.544722,,SUB,,
+2023-04-14 16:27:32,Siara Mavis,Sub Claimed Shift via App,2023-05-27 3:00:00,Madison Elementary School,1018.541389,,SUB,,
+2023-04-14 16:27:48,Siara Mavis,Sub Claimed Shift via App,2023-05-29 3:00:00,Madison Elementary School,1066.536944,,SUB,,
+2023-04-14 16:27:59,Siara Mavis,Shift was unassigned from Sub,2023-04-14 19:00:00,Truman Elementary ,2.533611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-14 16:27:59,Siara Mavis,Shift was unassigned from Sub,2023-04-18 19:00:00,Truman Elementary ,98.533611,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-04-14 16:28:16,Siara Mavis,Sub Claimed Shift via App,2023-05-27 21:00:00,Madison Elementary School,1036.529167,,SUB,,
+2023-04-14 16:29:23,Siara Mavis,Sub Claimed Shift via App,2023-04-26 12:00:00,Madison Elementary School,283.510556,,SUB,,
+2023-04-14 16:30:37,Siara Mavis,Sub Claimed Shift via App,2023-05-06 21:00:00,Madison Elementary School,532.49,,SUB,,
+2023-04-15 17:56:20,Siara Mavis,Sub Claimed Shift via App,2023-04-27 21:00:00,Madison Elementary School,291.061389,,SUB,,
+2023-04-16 2:11:13,Siara Mavis,Shift was verified and paid,2023-04-15 21:00:00,Madison Elementary School,-5.186667,,E-Connect ,,
+2023-04-18 11:16:05,Siara Mavis,Shift was verified and paid,2023-04-18 3:00:00,Madison Elementary School,-8.268056,,E-Connect ,,
+2023-04-19 17:43:50,Siara Mavis,Shift was verified and paid,2023-04-19 12:00:00,Madison Elementary School,-5.730278,,E-Connect ,,
+2023-04-21 16:56:21,Siara Mavis,Sub Claimed Shift via App,2023-04-25 19:00:00,Madison Elementary School,98.060833,,SUB,,
+2023-04-21 17:57:18,Siara Mavis,Sub Canceled ,2023-04-22 19:00:00,Madison Elementary School,25.045,,SUB,,NONE
+2023-04-22 16:45:41,Siara Mavis,Sub Claimed Shift via App,2023-04-30 19:00:00,Madison Elementary School,194.238611,,SUB,,
+2023-04-22 17:50:06,Siara Mavis,Sub Claimed Shift via App,2023-05-07 3:00:00,Madison Elementary School,345.165,,SUB,,
+2023-04-22 18:56:14,Siara Mavis,Sub Claimed Shift via App,2023-05-29 19:00:00,Madison Elementary School,888.063056,,SUB,,
+2023-04-22 19:09:46,Siara Mavis,Sub Claimed Shift via App,2023-05-25 19:00:00,Madison Elementary School,791.837222,,SUB,,
+2023-04-23 11:16:35,Siara Mavis,Shift was verified and paid,2023-04-23 3:00:00,Madison Elementary School,-8.276389,,E-Connect ,,
+2023-04-23 17:18:25,Siara Mavis,Sub Claimed Shift via App,2023-04-27 11:00:00,Madison Elementary School,89.693333,,SUB,,
+2023-04-25 3:17:15,Siara Mavis,Shift was verified and paid,2023-04-24 19:00:00,Madison Elementary School,-8.287222,,E-Connect ,,
+2023-04-26 3:17:13,Siara Mavis,Shift was verified and paid,2023-04-25 19:00:00,Madison Elementary School,-8.286667,,E-Connect ,,
+2023-04-26 17:31:27,Siara Mavis,Shift was verified and paid,2023-04-26 12:00:00,Madison Elementary School,-5.523889,,E-Connect ,,
+2023-04-26 23:21:31,Siara Mavis,Sub Claimed Shift via App,2023-06-11 3:00:00,Eisenhower Elementary ,1083.641389,,SUB,,
+2023-04-26 23:21:45,Siara Mavis,Sub Claimed Shift via App,2023-06-12 3:00:00,Eisenhower Elementary ,1107.637778,,SUB,,
+2023-04-26 23:22:00,Siara Mavis,Sub Claimed Shift via App,2023-06-18 3:00:00,Eisenhower Elementary ,1251.633333,,SUB,,
+2023-04-26 23:22:11,Siara Mavis,Sub Claimed Shift via App,2023-06-19 3:00:00,Eisenhower Elementary ,1275.630278,,SUB,,
+2023-04-26 23:22:21,Siara Mavis,Sub Claimed Shift via App,2023-06-25 3:00:00,Eisenhower Elementary ,1419.6275,,SUB,,
+2023-04-26 23:22:35,Siara Mavis,Sub Claimed Shift via App,2023-06-26 3:00:00,Eisenhower Elementary ,1443.623611,,SUB,,
+2023-04-26 23:24:41,Siara Mavis,Sub Claimed Shift via App,2023-07-02 3:00:00,Eisenhower Elementary ,1587.588611,,SUB,,
+2023-04-26 23:24:56,Siara Mavis,Sub Claimed Shift via App,2023-07-03 3:00:00,Eisenhower Elementary ,1611.584722,,SUB,,
+2023-04-27 19:19:02,Siara Mavis,Shift was verified and paid,2023-04-27 11:00:00,Madison Elementary School,-8.317222,,E-Connect ,,
+2023-04-27 19:22:32,Siara Mavis,Sub Claimed Shift via App,2023-04-30 3:00:00,Madison Elementary School,55.624444,,SUB,,
+2023-04-28 2:00:33,Siara Mavis,Shift was verified and paid,2023-04-27 21:00:00,Madison Elementary School,-5.009167,,E-Connect ,,
+2023-04-28 6:12:38,Siara Mavis,Sub Canceled ,2023-04-29 12:00:00,Madison Elementary School,29.789722,,SUB,,NONE
+2023-04-30 11:15:56,Siara Mavis,Shift was verified and paid,2023-04-30 3:00:00,Madison Elementary School,-8.265556,,E-Connect ,,
+2023-04-30 12:35:57,Siara Mavis,Sub Canceled ,2023-04-30 19:00:00,Madison Elementary School,6.401111,,SUB,,NONE
+2023-04-30 12:35:58,Siara Mavis,Shift was unassigned from Sub,2023-05-05 21:00:00,Madison Elementary School,128.400556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:35:58,Siara Mavis,Shift was unassigned from Sub,2023-05-04 19:00:00,Madison Elementary School,102.400556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:35:59,Siara Mavis,Shift was unassigned from Sub,2023-05-01 19:00:00,Madison Elementary School,30.400556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:35:59,Siara Mavis,Shift was unassigned from Sub,2023-05-15 3:00:00,Madison Elementary School,350.400556,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:35:59,Siara Mavis,Shift was unassigned from Sub,2023-05-06 21:00:00,Madison Elementary School,152.400278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:35:59,Siara Mavis,Shift was unassigned from Sub,2023-05-12 12:00:00,Madison Elementary School,287.400278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:00,Siara Mavis,Shift was unassigned from Sub,2023-05-13 11:00:00,Madison Elementary School,310.400278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:00,Siara Mavis,Shift was unassigned from Sub,2023-05-23 19:00:00,Madison Elementary School,558.400278,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:00,Siara Mavis,Shift was unassigned from Sub,2023-05-17 19:00:00,Madison Elementary School,414.4,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:00,Siara Mavis,Shift was unassigned from Sub,2023-05-21 3:00:00,Madison Elementary School,494.4,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:01,Siara Mavis,Shift was unassigned from Sub,2023-05-08 19:00:00,Madison Elementary School,198.4,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:01,Siara Mavis,Shift was unassigned from Sub,2023-05-19 21:00:00,Madison Elementary School,464.4,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:01,Siara Mavis,Shift was unassigned from Sub,2023-05-27 3:00:00,Madison Elementary School,638.399722,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:01,Siara Mavis,Shift was unassigned from Sub,2023-07-02 3:00:00,Eisenhower Elementary ,1502.399722,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:02,Siara Mavis,Shift was unassigned from Sub,2023-05-29 19:00:00,Madison Elementary School,702.399444,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:02,Siara Mavis,Shift was unassigned from Sub,2023-05-07 21:00:00,Madison Elementary School,176.399444,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:03,Siara Mavis,Shift was unassigned from Sub,2023-05-27 21:00:00,Madison Elementary School,656.399444,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:03,Siara Mavis,Shift was unassigned from Sub,2023-06-26 3:00:00,Eisenhower Elementary ,1358.399444,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:03,Siara Mavis,Shift was unassigned from Sub,2023-06-19 3:00:00,Eisenhower Elementary ,1190.399167,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:03,Siara Mavis,Shift was unassigned from Sub,2023-06-18 3:00:00,Eisenhower Elementary ,1166.399167,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:03,Siara Mavis,Shift was unassigned from Sub,2023-06-12 3:00:00,Eisenhower Elementary ,1022.399167,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:04,Siara Mavis,Shift was unassigned from Sub,2023-05-29 3:00:00,Madison Elementary School,686.398889,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:04,Siara Mavis,Shift was unassigned from Sub,2023-05-07 3:00:00,Madison Elementary School,158.398889,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:04,Siara Mavis,Shift was unassigned from Sub,2023-05-22 19:00:00,Madison Elementary School,534.398889,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:05,Siara Mavis,Shift was unassigned from Sub,2023-05-25 19:00:00,Madison Elementary School,606.398611,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:05,Siara Mavis,Shift was unassigned from Sub,2023-06-11 3:00:00,Eisenhower Elementary ,998.398611,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:06,Siara Mavis,Shift was unassigned from Sub,2023-05-21 21:00:00,Madison Elementary School,512.398611,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:08,Siara Mavis,Shift was unassigned from Sub,2023-06-25 3:00:00,Eisenhower Elementary ,1334.398056,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-04-30 12:36:08,Siara Mavis,Shift was unassigned from Sub,2023-07-03 3:00:00,Eisenhower Elementary ,1526.398056,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-05-04 1:07:35,Siara Mavis,Sub Claimed Shift via App,2023-05-07 3:00:00,Madison Elementary School,73.873611,,SUB,,
+2023-05-04 1:07:45,Siara Mavis,Sub Claimed Shift via App,2023-05-21 3:00:00,Madison Elementary School,409.870833,,SUB,,
+2023-05-06 21:47:01,Siara Mavis,Sub Canceled ,2023-05-07 3:00:00,Madison Elementary School,5.216667,,SUB,,NONE
+2023-05-09 20:07:13,Siara Mavis,Sub Claimed Shift via App,2023-05-27 3:00:00,Madison Elementary School,414.879722,,SUB,,
+2023-05-09 20:07:22,Siara Mavis,Sub Claimed Shift via App,2023-05-28 3:00:00,Madison Elementary School,438.877222,,SUB,,
+2023-05-10 14:33:25,Siara Mavis,Sub Claimed Shift via App,2023-05-12 3:00:00,Madison Elementary School,36.443056,,SUB,,
+2023-05-10 14:33:41,Siara Mavis,Sub Claimed Shift via App,2023-05-25 3:00:00,Madison Elementary School,348.438889,,SUB,,
+2023-05-10 14:35:10,Siara Mavis,Sub Claimed Shift via App,2023-05-26 3:00:00,Madison Elementary School,372.414167,,SUB,,
+2023-05-11 16:18:50,Siara Mavis,Sub Canceled ,2023-05-12 3:00:00,Madison Elementary School,10.686111,,SUB,,NONE
+2023-05-14 3:49:03,Siara Mavis,Sub Claimed Shift via App,2023-06-18 3:00:00,Eisenhower Elementary ,839.182778,,SUB,,
+2023-05-14 3:49:13,Siara Mavis,Sub Claimed Shift via App,2023-06-26 3:00:00,Eisenhower Elementary ,1031.179722,,SUB,,
+2023-05-14 3:49:24,Siara Mavis,Sub Claimed Shift via App,2023-07-02 3:00:00,Eisenhower Elementary ,1175.176667,,SUB,,
+2023-05-18 21:20:30,Siara Mavis,Sub Claimed Shift via App,2023-05-23 3:00:00,Madison Elementary School,101.658611,,SUB,,
+2023-05-18 21:22:16,Siara Mavis,Sub Claimed Shift via App,2023-05-29 12:00:00,Madison Elementary School,254.628889,,SUB,,
+2023-05-18 21:26:21,Siara Mavis,Sub Claimed Shift via App,2023-05-20 3:00:00,Madison Elementary School,29.561111,,SUB,,
+2023-05-19 2:52:09,Siara Mavis,Sub Canceled ,2023-05-20 3:00:00,Madison Elementary School,24.130833,,SUB,,NONE
+2023-05-21 0:22:11,Siara Mavis,Sub Canceled ,2023-05-21 3:00:00,Madison Elementary School,2.630278,,SUB,,NONE
+2023-05-21 0:22:12,Siara Mavis,Shift was unassigned from Sub,2023-06-18 3:00:00,Eisenhower Elementary ,674.63,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-05-21 0:22:12,Siara Mavis,Shift was unassigned from Sub,2023-07-02 3:00:00,Eisenhower Elementary ,1010.63,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-05-21 0:22:13,Siara Mavis,Shift was unassigned from Sub,2023-06-26 3:00:00,Eisenhower Elementary ,866.629722,,SYSTEM AUTOMATED,SUB DEACTIVATED,SUB_STAGE_CHANGED
+2023-05-22 22:48:39,Siara Mavis,School Canceled the Shift,2023-05-23 3:00:00,Madison Elementary School,4.189444,,SCHOOL,,STAFFED_IN_HOUSE
+2023-05-24 22:46:23,Siara Mavis,School Canceled the Shift,2023-05-25 3:00:00,Madison Elementary School,4.226944,,SCHOOL,,STAFFED_IN_HOUSE
+2023-05-25 22:35:56,Siara Mavis,School Canceled the Shift,2023-05-26 3:00:00,Madison Elementary School,4.401111,,SCHOOL,,STAFFED_IN_HOUSE
+2023-05-27 1:01:21,Siara Mavis,Sub Canceled ,2023-05-27 3:00:00,Madison Elementary School,1.977778,,SUB,,NONE
+2023-05-27 16:03:12,Siara Mavis,Sub Canceled ,2023-05-28 3:00:00,Madison Elementary School,10.946667,,SUB,,NONE
+2023-05-29 4:30:57,Siara Mavis,Sub Canceled ,2023-05-29 12:00:00,Madison Elementary School,7.484444,,SUB,,NONE
+2023-05-29 4:32:23,Siara Mavis,Sub Claimed Shift via App,2023-07-03 3:00:00,Eisenhower Elementary ,838.460278,,SUB,,
+2023-05-29 4:32:50,Siara Mavis,Sub Claimed Shift via App,2023-06-12 19:00:00,Eisenhower Elementary ,350.452778,,SUB,,
+2023-05-29 4:33:15,Siara Mavis,Sub Claimed Shift via App,2023-06-20 3:00:00,Eisenhower Elementary ,526.446111,,SUB,,
+2023-05-29 4:34:17,Siara Mavis,Sub Claimed Shift via App,2023-06-15 19:00:00,Eisenhower Elementary ,422.428889,,SUB,,
+2023-05-29 4:34:45,Siara Mavis,Sub Claimed Shift via App,2023-06-24 19:00:00,Eisenhower Elementary ,638.421111,,SUB,,
+2023-06-12 15:36:27,Siara Mavis,Shift was unassigned from Sub,2023-06-12 19:00:00,Eisenhower Elementary ,3.3925,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-06-12 15:36:27,Siara Mavis,Shift was unassigned from Sub,2023-06-15 19:00:00,Eisenhower Elementary ,75.3925,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-06-12 15:36:27,Siara Mavis,Shift was unassigned from Sub,2023-06-24 19:00:00,Eisenhower Elementary ,291.3925,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-06-12 15:36:27,Siara Mavis,Shift was unassigned from Sub,2023-07-03 3:00:00,Eisenhower Elementary ,491.3925,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
+2023-06-12 15:36:28,Siara Mavis,Shift was unassigned from Sub,2023-06-20 3:00:00,Eisenhower Elementary ,179.3925,,SYSTEM AUTOMATED,BLOCK requested by SUB,BLOCK_ADDED
